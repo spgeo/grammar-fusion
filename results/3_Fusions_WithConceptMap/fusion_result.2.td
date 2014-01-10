@@ -1,0 +1,606 @@
+<Individual_cat>,<Individual_1>,<Individual_2>,<Individual_3>,<Individual_4>,<Individual_5>,<Individual_6>
+<Statement_19>,<Individual_2> <Statement_37>,<Objecttype_8> <Statement_38>,<Unknown_4> <Statement_37>,<Unknown_43> <Statement_41>,A <Statement_20>,AT <Statement_21>,FLIGHTS <Statement_22>,FROM <Statement_23>,HOTELS <Statement_24>,IN <Statement_21>,LEAVED <Statement_26>,OFFERRED <Statement_26>,OPERATED <Statement_26>,ROUND <Statement_29>,SERVED <Statement_26>,STOPS <Statement_24>,THE <Statement_32>,TO <Statement_33>,TRIPS <Statement_34>,USED <Statement_26>
+<Statement_525>,<Statement_531>
+<Statement_378>,<Statement_384>
+<Objecttype_9>,IS,CITY,AIRPORT
+<Statement_462>,<Unknown_4>,<Individual_5>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_478>,<Individual_5> <Statement_478>,<Unknown_4> TO <Unknown_4> <Statement_478>
+<Sentence_4>,TRIP FLIGHTS <Sentence_7>,TRIPS <Sentence_7>,TRIP FLIGHTS FROM <Unknown_4> <Sentence_7>,TRIP FLIGHTS TO <Unknown_4> <Sentence_7>,TRIPS FROM <Unknown_4> <Sentence_7>,TRIPS TO <Unknown_4> <Sentence_7>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Sentence_7>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Sentence_7>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Sentence_7>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Sentence_7>
+<Statement_293>,IN <Unknown_4> <Statement_305>
+<Statement_526>,<NULL>,<Statement_528>
+<Statement_556>,<Individual_6> <Statement_574>,<Objecttype_8> <Statement_575>,<Unknown_4> <Statement_574>,<Unknown_43> <Statement_578>,A <Statement_557>,AT <Statement_558>,FLIGHTS <Statement_559>,FROM <Statement_560>,HOTELS <Statement_561>,IN <Statement_558>,LEAVED <Statement_563>,OFFERRED <Statement_563>,OPERATED <Statement_563>,ROUND <Statement_566>,SERVED <Statement_563>,STOPS <Statement_561>,THE <Statement_569>,TO <Statement_570>,TRIPS <Statement_571>,USED <Statement_563>
+<Statement_143>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_3>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_162>,TRIP FROM <Unknown_4> <Statement_162>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_162>,LEG OF <Individual_3> <Statement_162>,LEG OF <Unknown_4> <Statement_162>
+<Statement_513>,IN <Unknown_4> <Statement_525>
+<Statement_190>,<Individual_3> <Statement_208>,<Objecttype_8> <Statement_209>,<Unknown_4> <Statement_208>,<Unknown_43> <Statement_212>,A <Statement_191>,AT <Statement_192>,FLIGHTS <Statement_193>,FROM <Statement_194>,HOTELS <Statement_195>,IN <Statement_192>,LEAVED <Statement_197>,OFFERRED <Statement_197>,OPERATED <Statement_197>,ROUND <Statement_200>,SERVED <Statement_197>,STOPS <Statement_195>,THE <Statement_203>,TO <Statement_204>,TRIPS <Statement_205>,USED <Statement_197>
+<Unknown_46>,<Modifier_1>,<Modality_4>
+<Statement_61>,<NULL>,<Statement_63>
+<Unknown_65>,<Unknown_68>
+<Unknown_21>,<Statement_166>,<Statement_288>,<Statement_410>,<Statement_43>,<Statement_532>
+<Statement_7>,DO
+<Modifier_3>,<NULL>,<Unknown_27>
+<Class_3>,<Objecttype_3>,ARE
+<Unknown_14>,<Statement_10>
+<Statement_286>,<Unknown_59> <Statement_281>
+<Statement_458>,<Individual_5> <Statement_476>,<Objecttype_8> <Statement_477>,<Unknown_4> <Statement_476>,<Unknown_43> <Statement_480>,A <Statement_459>,AT <Statement_460>,FLIGHTS <Statement_461>,FROM <Statement_462>,HOTELS <Statement_463>,IN <Statement_460>,LEAVED <Statement_465>,OFFERRED <Statement_465>,OPERATED <Statement_465>,ROUND <Statement_468>,SERVED <Statement_465>,STOPS <Statement_463>,THE <Statement_471>,TO <Statement_472>,TRIPS <Statement_473>,USED <Statement_465>
+<Class_21>,<Unknown_44>,<Unknown_44> <Class_18>
+<Statement_405>,<Statement_403>
+<Statement_539>,BY <Individual_6>,BY <Unknown_4>,<Statement_552>,BY <Individual_6> <Statement_552>,BY <Unknown_4> <Statement_552>
+<Statement_430>,<Statement_431>
+<Statement_583>,<Statement_597>,TO <Unknown_4> <Statement_597>,FROM <Unknown_4> <Statement_597>,WITH <Unknown_4> <Statement_597>,TO <Unknown_4> FROM <Unknown_4> <Statement_597>,TO <Unknown_4> WITH <Unknown_4> <Statement_597>,FROM <Unknown_4> TO <Unknown_4> <Statement_597>,WITH <Unknown_4> TO <Unknown_4> <Statement_597>,FROM <Unknown_4> WITH <Unknown_4> <Statement_597>,WITH <Unknown_4> FROM <Unknown_4> <Statement_597>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_597>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_597>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_597>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_597>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_597>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_597>
+<Statement_259>,<Statement_260>
+<Statement_602>,<Unknown_59> <Statement_597>
+<Statement_118>,<Unknown_4>,<Individual_2>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_136>,<Individual_2> <Statement_136>,<Unknown_4> TO <Unknown_4> <Statement_136>
+<Unknown_51>,IN <Unknown_4> <Unknown_55>
+<Statement_34>,<Statement_36>,TO <Unknown_4> <Statement_36>,FROM <Unknown_4> <Statement_36>,TO <Unknown_4> FROM <Unknown_4> <Statement_36>,FROM <Unknown_4> TO <Unknown_4> <Statement_36>
+<Statement_413>,<Statement_427>,TO <Unknown_4> <Statement_427>,FROM <Unknown_4> <Statement_427>,WITH <Unknown_4> <Statement_427>,TO <Unknown_4> FROM <Unknown_4> <Statement_427>,TO <Unknown_4> WITH <Unknown_4> <Statement_427>,FROM <Unknown_4> TO <Unknown_4> <Statement_427>,WITH <Unknown_4> TO <Unknown_4> <Statement_427>,FROM <Unknown_4> WITH <Unknown_4> <Statement_427>,WITH <Unknown_4> FROM <Unknown_4> <Statement_427>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_427>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_427>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_427>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_427>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_427>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_427>
+<Statement_423>,LEG <Individual_5>,LEG <Unknown_3>,LEG <Individual_5> <Statement_430>,LEG <Unknown_3> <Statement_430>
+<Class_17>,TO <Unknown_4> FROM <Unknown_4>,TO <Unknown_4>,FROM <Unknown_4> TO <Unknown_4>,FROM <Unknown_4>,<Class_18>,TO <Unknown_4> <Class_18>,FROM <Unknown_4> <Class_18>,TO <Unknown_4> FROM <Unknown_4> <Class_18>,FROM <Unknown_4> TO <Unknown_4> <Class_18>
+<Question_1>,<Clause_2>,<WhPron_1> <Unknown_9> <Unknown_11> <Unknown_11> <Unknown_10> <Unknown_11> <Unknown_11> <Unknown_22> <Unknown_11>,<WhPron_3> <Unknown_13> <Unknown_11> <Unknown_11> <Unknown_14> <Unknown_11> <Unknown_11> <Unknown_24> <Unknown_11>,<WhAdv_1> <Clause_2>
+<Sentence_7>,<Sentence_13>
+<Statement_155>,LEG <Individual_3>,LEG <Unknown_3>,LEG <Individual_3> <Statement_162>,LEG <Unknown_3> <Statement_162>
+<Statement_265>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_4>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_284>,TRIP FROM <Unknown_4> <Statement_284>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_284>,LEG OF <Individual_4> <Statement_284>,LEG OF <Unknown_4> <Statement_284>
+<Statement_149>,BY <Individual_3>,BY <Unknown_4>,<Statement_162>,BY <Individual_3> <Statement_162>,BY <Unknown_4> <Statement_162>
+<Statement_212>,<Unknown_59> <Statement_207>
+<Statement_571>,<Statement_573>,TO <Unknown_4> <Statement_573>,FROM <Unknown_4> <Statement_573>,TO <Unknown_4> FROM <Unknown_4> <Statement_573>,FROM <Unknown_4> TO <Unknown_4> <Statement_573>
+<Statement_82>,<Statement_84>,TO <Unknown_4> <Statement_84>,FROM <Unknown_4> <Statement_84>,TO <Unknown_4> FROM <Unknown_4> <Statement_84>,FROM <Unknown_4> TO <Unknown_4> <Statement_84>
+<Statement_188>,<Unknown_59> <Statement_183>
+<Statement_478>,<Statement_479>
+<Statement_157>,<Statement_159>,TO <Unknown_4> <Statement_159>,FROM <Unknown_4> <Statement_159>,TO <Unknown_4> FROM <Unknown_4> <Statement_159>,FROM <Unknown_4> TO <Unknown_4> <Statement_159>
+<Modifier_cat>,<Modifier_1>,<Modifier_2>,<Modifier_3>,<Modifier_4>,<Modifier_5>,<Modality_4>
+<Statement_298>,TRIP FLIGHTS <Statement_305>,TRIPS <Statement_305>,TRIP FLIGHTS FROM <Unknown_4> <Statement_305>,TRIP FLIGHTS TO <Unknown_4> <Statement_305>,TRIPS FROM <Unknown_4> <Statement_305>,TRIPS TO <Unknown_4> <Statement_305>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_305>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_305>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_305>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_305>
+<Statement_425>,<Statement_427>,TO <Unknown_4> <Statement_427>,FROM <Unknown_4> <Statement_427>,TO <Unknown_4> FROM <Unknown_4> <Statement_427>,FROM <Unknown_4> TO <Unknown_4> <Statement_427>
+<Statement_152>,TRIP FLIGHTS <Statement_159>,TRIPS <Statement_159>,TRIP FLIGHTS FROM <Unknown_4> <Statement_159>,TRIP FLIGHTS TO <Unknown_4> <Statement_159>,TRIPS FROM <Unknown_4> <Statement_159>,TRIPS TO <Unknown_4> <Statement_159>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_159>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_159>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_159>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_159>
+<Statement_214>,<Individual_3> <Statement_232>,<Objecttype_8> <Statement_233>,<Unknown_4> <Statement_232>,<Unknown_43> <Statement_236>,A <Statement_215>,AT <Statement_216>,FLIGHTS <Statement_217>,FROM <Statement_218>,HOTELS <Statement_219>,IN <Statement_216>,LEAVED <Statement_221>,OFFERRED <Statement_221>,OPERATED <Statement_221>,ROUND <Statement_224>,SERVED <Statement_221>,STOPS <Statement_219>,THE <Statement_227>,TO <Statement_228>,TRIPS <Statement_229>,USED <Statement_221>
+<Statement_555>,<Unknown_45> <Statement_549>
+<Statement_126>,TRIP FLIGHTS <Statement_133>,TRIPS <Statement_133>,TRIP FLIGHTS FROM <Unknown_4> <Statement_133>,TRIP FLIGHTS TO <Unknown_4> <Statement_133>,TRIPS FROM <Unknown_4> <Statement_133>,TRIPS TO <Unknown_4> <Statement_133>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_133>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_133>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_133>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_133>
+<Statement_77>,TRIP FLIGHTS <Statement_84>,TRIPS <Statement_84>,TRIP FLIGHTS FROM <Unknown_4> <Statement_84>,TRIP FLIGHTS TO <Unknown_4> <Statement_84>,TRIPS FROM <Unknown_4> <Statement_84>,TRIPS TO <Unknown_4> <Statement_84>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_84>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_84>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_84>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_84>
+<Statement_493>,TRIP FLIGHTS <Statement_500>,TRIPS <Statement_500>,TRIP FLIGHTS FROM <Unknown_4> <Statement_500>,TRIP FLIGHTS TO <Unknown_4> <Statement_500>,TRIPS FROM <Unknown_4> <Statement_500>,TRIPS TO <Unknown_4> <Statement_500>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_500>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_500>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_500>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_500>
+<Statement_282>,<NULL>,<Statement_284>
+<Statement_515>,BY <Individual_6>,BY <Unknown_4>,<Statement_528>,BY <Individual_6> <Statement_528>,BY <Unknown_4> <Statement_528>
+<Statement_24>,IN <Unknown_4> <Statement_36>
+<Statement_351>,<Statement_353>,TO <Unknown_4> <Statement_353>,FROM <Unknown_4> <Statement_353>,TO <Unknown_4> FROM <Unknown_4> <Statement_353>,FROM <Unknown_4> TO <Unknown_4> <Statement_353>
+<Statement_412>,<Unknown_4>,<Unknown_4> <Statement_430>
+<Statement_100>,BY <Individual_2>,BY <Unknown_4>,<Statement_111>,BY <Individual_2> <Statement_111>,BY <Unknown_4> <Statement_111>
+<Statement_471>,LEG <Individual_5>,LEG <Unknown_3>,LEG <Individual_5> <Statement_478>,LEG <Unknown_3> <Statement_478>
+<Statement_141>,<Individual_3>
+<Statement_307>,<Statement_305>
+<Statement_549>,<Statement_555>
+<Statement_176>,TRIP FLIGHTS <Statement_183>,TRIPS <Statement_183>,TRIP FLIGHTS FROM <Unknown_4> <Statement_183>,TRIP FLIGHTS TO <Unknown_4> <Statement_183>,TRIPS FROM <Unknown_4> <Statement_183>,TRIPS TO <Unknown_4> <Statement_183>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_183>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_183>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_183>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_183>
+<Statement_481>,<Unknown_45> <Statement_475>
+<Statement_308>,<Statement_309>
+<Class_18>,<Class_21>
+<Statement_195>,IN <Unknown_4> <Statement_207>
+<Statement_285>,<Unknown_46>,<Unknown_46> <Statement_284>
+<Statement_235>,<Unknown_46>,<Unknown_46> <Statement_234>
+<Statement_311>,<Unknown_45> <Statement_305>
+<Statement_277>,LEG <Individual_4>,LEG <Unknown_3>,LEG <Individual_4> <Statement_284>,LEG <Unknown_3> <Statement_284>
+<Statement_521>,LEG <Individual_6>,LEG <Unknown_3>,LEG <Individual_6> <Statement_528>,LEG <Unknown_3> <Statement_528>
+<Statement_80>,LEG <Individual_1>,LEG <Unknown_3>,LEG <Individual_1> <Statement_87>,LEG <Unknown_3> <Statement_87>
+<Statement_484>,<Statement_500>,TO <Unknown_4> <Statement_500>,FROM <Unknown_4> <Statement_500>,WITH <Unknown_4> <Statement_500>,TO <Unknown_4> FROM <Unknown_4> <Statement_500>,TO <Unknown_4> WITH <Unknown_4> <Statement_500>,FROM <Unknown_4> TO <Unknown_4> <Statement_500>,WITH <Unknown_4> TO <Unknown_4> <Statement_500>,FROM <Unknown_4> WITH <Unknown_4> <Statement_500>,WITH <Unknown_4> FROM <Unknown_4> <Statement_500>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_500>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_500>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_500>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_500>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_500>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_500>
+<Statement_17>,DOESN'T,ISN'T
+<Class_29>,<Class_28>
+<Statement_246>,OF <Individual_3>,OF <Unknown_4>,OF <Individual_3> <Statement_259>,OF <Unknown_4> <Statement_259>
+<Statement_271>,BY <Individual_4>,BY <Unknown_4>,<Statement_284>,BY <Individual_4> <Statement_284>,BY <Unknown_4> <Statement_284>
+<Statement_6>,DOES,AEROSPATIALE,AIRBUS INDUSTRIE,BEECHCRAFT,BOEING,BOEING CANADA,BRITISH AEROSPACE,DORNIER,EMBRAER,FAIRCHILD,FOKKER,LOCKHEED,MCDONNELL DOUGLAS,SAAB,SHORTS
+<Statement_512>,<Unknown_4>,<Individual_6>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_528>,<Individual_6> <Statement_528>,<Unknown_4> TO <Unknown_4> <Statement_528>
+<Statement_23>,<Unknown_4>,<Individual_2>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_39>,<Individual_2> <Statement_39>,<Unknown_4> TO <Unknown_4> <Statement_39>
+<Statement_108>,<Statement_114>
+<Statement_189>,<Unknown_45> <Statement_183>
+<Statement_502>,<Statement_500>
+<Statement_210>,<Statement_211>
+<Statement_305>,<Statement_311>
+<Statement_84>,<Statement_90>
+<Class_cat>,<Class_1>,<Class_10>,<Class_11>,<Class_12>,<Class_22>,<Class_3>,<Unknown_11>,<Class_33>,<Class_9>
+<Statement_574>,<NULL>,<Statement_576>
+<Statement_245>,BY <Individual_3>,BY <Unknown_4>,<Statement_259>,BY <Individual_3> <Statement_259>,BY <Unknown_4> <Statement_259>
+<Statement_404>,<NULL>,<Statement_406>
+<Unknown_49>,<Objecttype_7> <Unknown_56>,<Unknown_42> <Unknown_57>,FLIGHT <Unknown_50>,HOTEL <Unknown_51>,ROUND <Unknown_52>,STOP <Unknown_51>,TRIP <Unknown_54>
+<Statement_432>,<Unknown_59> <Statement_427>
+<Unknown_26>,<Class_1>
+<Statement_511>,<Statement_525>,TO <Unknown_4> <Statement_525>,FROM <Unknown_4> <Statement_525>,WITH <Unknown_4> <Statement_525>,TO <Unknown_4> FROM <Unknown_4> <Statement_525>,TO <Unknown_4> WITH <Unknown_4> <Statement_525>,FROM <Unknown_4> TO <Unknown_4> <Statement_525>,WITH <Unknown_4> TO <Unknown_4> <Statement_525>,FROM <Unknown_4> WITH <Unknown_4> <Statement_525>,WITH <Unknown_4> FROM <Unknown_4> <Statement_525>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_525>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_525>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_525>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_525>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_525>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_525>
+<Statement_262>,<Unknown_45> <Statement_256>
+<Statement_569>,LEG <Individual_6>,LEG <Unknown_3>,LEG <Individual_6> <Statement_576>,LEG <Unknown_3> <Statement_576>
+<Statement_63>,<Statement_64>
+<Statement_560>,<Unknown_4>,<Individual_6>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_576>,<Individual_6> <Statement_576>,<Unknown_4> TO <Unknown_4> <Statement_576>
+<Unknown_6>,<Individual_4>,<Individual_5>
+<Statement_104>,LEG <Individual_1>,LEG <Unknown_3>,LEG <Individual_1> <Statement_111>,LEG <Unknown_3> <Statement_111>
+<Unknown_64>,<Unknown_65>,TO <Unknown_4> <Unknown_65>,FROM <Unknown_4> <Unknown_65>,TO <Unknown_4> FROM <Unknown_4> <Unknown_65>,FROM <Unknown_4> TO <Unknown_4> <Unknown_65>
+<Statement_480>,<Unknown_59> <Statement_475>
+<Statement_354>,<NULL>,<Statement_356>
+<Statement_173>,BY <Individual_3>,BY <Unknown_4>,<Statement_186>,BY <Individual_3> <Statement_186>,BY <Unknown_4> <Statement_186>
+<Question_QS_cat>,<Question_1>
+<Statement_193>,<Statement_207>,TO <Unknown_4> <Statement_207>,FROM <Unknown_4> <Statement_207>,WITH <Unknown_4> <Statement_207>,TO <Unknown_4> FROM <Unknown_4> <Statement_207>,TO <Unknown_4> WITH <Unknown_4> <Statement_207>,FROM <Unknown_4> TO <Unknown_4> <Statement_207>,WITH <Unknown_4> TO <Unknown_4> <Statement_207>,FROM <Unknown_4> WITH <Unknown_4> <Statement_207>,WITH <Unknown_4> FROM <Unknown_4> <Statement_207>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_207>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_207>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_207>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_207>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_207>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_207>
+<Statement_580>,<Individual_6> <Statement_598>,<Objecttype_8> <Statement_599>,<Unknown_4> <Statement_598>,<Unknown_43> <Statement_602>,A <Statement_581>,AT <Statement_582>,FLIGHTS <Statement_583>,FROM <Statement_584>,HOTELS <Statement_585>,IN <Statement_582>,LEAVED <Statement_587>,OFFERRED <Statement_587>,OPERATED <Statement_587>,ROUND <Statement_590>,SERVED <Statement_587>,STOPS <Statement_585>,THE <Statement_593>,TO <Statement_594>,TRIPS <Statement_595>,USED <Statement_587>
+<Statement_10>,SERVE,ARRIVE,LAND,DEPART,LEAVE,USE,STOP,OPERATE,FLY,GO,TRAVEL,HAVE,OFFER
+<Statement_122>,BY <Individual_2>,BY <Unknown_4>,<Statement_136>,BY <Individual_2> <Statement_136>,BY <Unknown_4> <Statement_136>
+<Statement_576>,<Statement_577>
+<Individual_3>,YOU
+<Statement_67>,<Individual_2> <Statement_85>,<Objecttype_8> <Statement_86>,<Unknown_4> <Statement_85>,<Unknown_43> <Statement_89>,A <Statement_68>,AT <Statement_69>,FLIGHTS <Statement_70>,FROM <Statement_71>,HOTELS <Statement_72>,IN <Statement_69>,LEAVED <Statement_74>,OFFERRED <Statement_74>,OPERATED <Statement_74>,ROUND <Statement_77>,SERVED <Statement_74>,STOPS <Statement_72>,THE <Statement_80>,TO <Statement_81>,TRIPS <Statement_82>,USED <Statement_74>
+<Statement_335>,<Unknown_45> <Statement_329>
+<Statement_15>,DON'T,AM NOT,FLIGHT,I'M DONE,DONE,THAT'S IT,THAT'S ALL,I'M FINISHED,FINISHED,THAT IS IT,THAT IS ALL,TRIP'S OVER,COMPLETES MY TRIP,COMPLETES MY RESERVATION,COMPLETES MY ITINERARY,TRIP COMPLETE,ITINERARY COMPLETE,RESERVATION COMPLETE,I DON'T KNOW,I DON'T KNOW WHAT,I'M NOT SURE,I AM NOT SURE,I'M NOT SURE WHAT,I AM NOT SURE WHAT,MORNING,AFTERNOON,AFTER NOON,NOON,EVENING,NIGHT,MIDNIGHT,ANYTIME,ANY TIME,MID DAY,DAYTIME,WHENEVER
+<Unknown_56>,<Unknown_55>
+<Unknown_20>,<Statement_142>,<Statement_19>,<Statement_264>,<Statement_386>,<Statement_508>
+<Statement_597>,<Statement_603>
+<Statement_623>,<NULL>,<Statement_625>
+<Statement_37>,<NULL>,<Statement_39>
+<WhPron_cat>,<WhPron_1>,<WhPron_2>,<WhPron_3> .
+<Statement_363>,<Unknown_4>,<Individual_4>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_381>,<Individual_4> <Statement_381>,<Unknown_4> TO <Unknown_4> <Statement_381>
+<Statement_431>,<Unknown_46>,<Unknown_46> <Statement_430>
+<Statement_89>,<Unknown_59> <Statement_84>
+<Unknown_59>,<Objecttype_8> <Unknown_66>,<Unknown_43> <Unknown_67>,FLIGHTS <Unknown_60>,HOTELS <Unknown_61>,ROUND <Unknown_62>,STOPS <Unknown_61>,TRIPS <Unknown_64>
+<Statement_601>,<Unknown_46>,<Unknown_46> <Statement_600>
+<Statement_409>,<Unknown_45> <Statement_403>
+<Statement_39>,<Statement_40>
+<Class_28>,<Class_31>
+<Statement_505>,<Unknown_59> <Statement_500>
+<Statement_477>,<Statement_475>
+<Statement_454>,<Statement_455>
+<Statement_329>,<Statement_335>
+<Statement_88>,<Unknown_46>,<Unknown_46> <Statement_87>
+<Statement_187>,<Unknown_46>,<Unknown_46> <Statement_186>
+<Statement_599>,<Statement_597>
+<Statement_476>,<NULL>,<Statement_478>
+<Statement_453>,<Statement_451>
+<Statement_120>,IN <Unknown_4> <Statement_133>
+<Statement_92>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_2>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_111>,TRIP FROM <Unknown_4> <Statement_111>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_111>,LEG OF <Individual_2> <Statement_111>,LEG OF <Unknown_4> <Statement_111>
+<Objecttype_5>,FIRST CLASS,SECOND CLASS,A AIRLINE,A AIRPORT,A,AIRPORT SERVICE,GROUND TRANSPORTATION,A ARRIVAL,A CAR,RENTAL CAR,KIND OF CAR,TYPE OF CAR,CAR TYPE,A CITY,A COUNTRY,A DEPARTURE,A FLIGHT,A HOTEL,A LEG,FLIGHT LEG,A FIRST LEG,A SECOND LEG,A THIRD LEG,A MEAL,AIRCRAFT,AIRPLANE,PLANE,A RENTAL,A FIRST RENTAL,A SECOND RENTAL,A STATE,A STAY,A FIRST STAY,A SECOND STAY,A STOPOVER,JOURNEY,TRAVEL,TRIP,NONSTOP,AIRCRAFT TYPE,AIRPLANE TYPE,AIRCRAFT CODE,AIRPLANE CODE,AIRCRAFT MANUFACTURER,AIRPLANE MANUFACTURER,AIRCRAFT MANUFACTURED BY,AIRPLANE MANUFACTURED BY,CITY I AM GOING IN,AIRPORT AM I GOING IN,CITY AM I GOING IN,AIRPORT I'M FLYING IN,CITY I'M FLYING IN,AIRPORT I AM FLYING IN,CITY I AM FLYING IN,AIRPORT AM I FLYING IN,CITY AM I FLYING IN,AIRPORT I'M ARRIVING IN,CITY I'M ARRIVING IN,SUBCOMPACT CAR,SUBCOMPACT,ECONOMY CAR,ECONOMY,COMPACT CAR,COMPACT,INTERMEDIATE CAR,INTERMEDIATE SIZE CAR,INTERMEDIATE,MID SIZE CAR,MIDSIZE CAR,STANDARD CAR,STANDARD SIZE CAR,STANDARD SIZE,FULL SIZE CAR,FULLSIZE CAR,FULL SIZE,FULLSIZE,PREMIUM CAR,PREMIUM,LUXURY CAR,LUXURY,SPORTS CAR,CONVERTIBLE,STATION WAGON,WAGON,MINIVAN,VAN,FULL SIZE VAN,SPORT UTILITY,S U V,FOUR WHEEL DRIVE,PICK-UP TRUCK,PICK-UP,ALL TERRAIN VEHICLE,ALL TERRAIN
+<Statement_1>,<Individual_1>
+<Statement_163>,<Unknown_46>,<Unknown_46> <Statement_162>
+<Statement_93>,<Unknown_4>,<Unknown_4> <Statement_111>
+<Statement_313>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_4>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_332>,TRIP FROM <Unknown_4> <Statement_332>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_332>,LEG OF <Individual_4> <Statement_332>,LEG OF <Unknown_4> <Statement_332>
+<Statement_341>,IN <Unknown_4> <Statement_353>
+<Statement_449>,<Statement_451>,TO <Unknown_4> <Statement_451>,FROM <Unknown_4> <Statement_451>,TO <Unknown_4> FROM <Unknown_4> <Statement_451>,FROM <Unknown_4> TO <Unknown_4> <Statement_451>
+<Unknown_66>,<Unknown_65>
+<Statement_256>,<Statement_262>
+<Statement_530>,<Unknown_59> <Statement_525>
+<Statement_234>,<Statement_235>
+<Unknown_60>,<Unknown_65>,TO <Unknown_4> <Unknown_65>,FROM <Unknown_4> <Unknown_65>,WITH <Unknown_4> <Unknown_65>,TO <Unknown_4> FROM <Unknown_4> <Unknown_65>,TO <Unknown_4> WITH <Unknown_4> <Unknown_65>,FROM <Unknown_4> TO <Unknown_4> <Unknown_65>,WITH <Unknown_4> TO <Unknown_4> <Unknown_65>,FROM <Unknown_4> WITH <Unknown_4> <Unknown_65>,WITH <Unknown_4> FROM <Unknown_4> <Unknown_65>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Unknown_65>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Unknown_65>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Unknown_65>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Unknown_65>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Unknown_65>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Unknown_65>
+<Statement_215>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_3>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_234>,TRIP FROM <Unknown_4> <Statement_234>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_234>,LEG OF <Individual_3> <Statement_234>,LEG OF <Unknown_4> <Statement_234>
+<Class_14>,IN <Unknown_4>,IN <Unknown_4> <Class_18>
+<Statement_433>,<Unknown_45> <Statement_427>
+<Statement_535>,<Statement_549>,TO <Unknown_4> <Statement_549>,FROM <Unknown_4> <Statement_549>,WITH <Unknown_4> <Statement_549>,TO <Unknown_4> FROM <Unknown_4> <Statement_549>,TO <Unknown_4> WITH <Unknown_4> <Statement_549>,FROM <Unknown_4> TO <Unknown_4> <Statement_549>,WITH <Unknown_4> TO <Unknown_4> <Statement_549>,FROM <Unknown_4> WITH <Unknown_4> <Statement_549>,WITH <Unknown_4> FROM <Unknown_4> <Statement_549>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_549>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_549>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_549>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_549>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_549>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_549>
+<Statement_179>,LEG <Individual_3>,LEG <Unknown_3>,LEG <Individual_3> <Statement_186>,LEG <Unknown_3> <Statement_186>
+<Statement_5>,SERVE,LEAVE,USE,OPERATE,OFFER,STOPOVER,OH,ZERO,ONE,TWO,THREE,FOUR,FIVE,SIX,SEVEN,EIGHT,NINE,ONE,TWO,THREE,FOUR,FIVE,SIX,SEVEN,EIGHT,NINE,TEN,ELEVEN,TWELVE,ZERO,OH,ONE,TWO,THREE,FOUR,FIVE,SIX,SEVEN,EIGHT,NINE,TEN,ELEVEN,TWELVE,THIRTEEN,FOURTEEN,FIFTEEN,SIXTEEN,SEVENTEEN,EIGHTEEN,NINETEEN,TWENTY,TWENTY ONE,TWENTY TWO,TWENTY THREE,TWENTY FOUR
+<Statement_283>,<Statement_281>
+<Statement_216>,<Unknown_4>,<Unknown_4> <Statement_234>
+<Statement_48>,IN <Unknown_4> <Statement_60>
+<Clause_3>,<Unknown_5> DON'T NEED <Unknown_4>,<Unknown_6> DOESN'T NEED <Unknown_4>,<Unknown_5> DON'T WANT <Unknown_4>,<Unknown_6> DOESN'T WANT <Unknown_4>,<Individual_1> DON'T WANT TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_20> <Unknown_11>,<Individual_3> DON'T WANT TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_21> <Unknown_11>,<Individual_4> DOESN'T WANT TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_22> <Unknown_11>,<Individual_5> DOESN'T WANT TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_23> <Unknown_11>,<Individual_6> DON'T WANT TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_24> <Unknown_11>
+<Class_10>,<Objecttype_6>,<Unknown_43> <Unknown_59>,<Unknown_59> <Unknown_45>,ROUND TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4>,ROUND TRIP FLIGHTS FROM <Unknown_4>,ROUND TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4>,ROUND TRIP FLIGHTS TO <Unknown_4>,ROUND TRIP FLIGHTS,FLIGHTS TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4>,FLIGHTS TO <Unknown_4> FROM <Unknown_4>,FLIGHTS TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4>,FLIGHTS TO <Unknown_4> WITH <Unknown_4>,FLIGHTS TO <Unknown_4>,FLIGHTS FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4>,FLIGHTS FROM <Unknown_4> TO <Unknown_4>,FLIGHTS WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4>,FLIGHTS WITH <Unknown_4> TO <Unknown_4>,FLIGHTS FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4>,FLIGHTS WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4>,FLIGHTS FROM <Unknown_4> WITH <Unknown_4>,FLIGHTS FROM <Unknown_4>,FLIGHTS WITH <Unknown_4> FROM <Unknown_4>,FLIGHTS WITH <Unknown_4>,FLIGHTS,HOTELS IN <Unknown_4>,STOPS IN <Unknown_4>,ROUND TRIPS FROM <Unknown_4> TO <Unknown_4>,ROUND TRIPS FROM <Unknown_4>,ROUND TRIPS TO <Unknown_4> FROM <Unknown_4>,ROUND TRIPS TO <Unknown_4>,ROUND TRIPS,TRIPS TO <Unknown_4> FROM <Unknown_4>,TRIPS TO <Unknown_4>,TRIPS FROM <Unknown_4> TO <Unknown_4>,TRIPS FROM <Unknown_4>,TRIPS
+<Statement_279>,<Statement_281>,TO <Unknown_4> <Statement_281>,FROM <Unknown_4> <Statement_281>,TO <Unknown_4> FROM <Unknown_4> <Statement_281>,FROM <Unknown_4> TO <Unknown_4> <Statement_281>
+<Statement_287>,<Unknown_45> <Statement_281>
+<Statement_362>,<Statement_378>,TO <Unknown_4> <Statement_378>,FROM <Unknown_4> <Statement_378>,WITH <Unknown_4> <Statement_378>,TO <Unknown_4> FROM <Unknown_4> <Statement_378>,TO <Unknown_4> WITH <Unknown_4> <Statement_378>,FROM <Unknown_4> TO <Unknown_4> <Statement_378>,WITH <Unknown_4> TO <Unknown_4> <Statement_378>,FROM <Unknown_4> WITH <Unknown_4> <Statement_378>,WITH <Unknown_4> FROM <Unknown_4> <Statement_378>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_378>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_378>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_378>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_378>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_378>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_378>
+<Sentence_13>,<Unknown_45> <Sentence_7>
+<Statement_382>,<Unknown_46>,<Unknown_46> <Statement_381>
+<Statement_578>,<Unknown_59> <Statement_573>
+<Statement_537>,IN <Unknown_4> <Statement_549>
+<Statement_388>,<Unknown_4>,<Unknown_4> <Statement_406>
+<Statement_385>,<Individual_5>
+<Statement_240>,<Statement_256>,TO <Unknown_4> <Statement_256>,FROM <Unknown_4> <Statement_256>,WITH <Unknown_4> <Statement_256>,TO <Unknown_4> FROM <Unknown_4> <Statement_256>,TO <Unknown_4> WITH <Unknown_4> <Statement_256>,FROM <Unknown_4> TO <Unknown_4> <Statement_256>,WITH <Unknown_4> TO <Unknown_4> <Statement_256>,FROM <Unknown_4> WITH <Unknown_4> <Statement_256>,WITH <Unknown_4> FROM <Unknown_4> <Statement_256>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_256>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_256>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_256>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_256>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_256>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_256>
+<Statement_400>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_406>,<Unknown_4> FROM <Unknown_4> <Statement_406>
+<Statement_64>,<Unknown_46>,<Unknown_46> <Statement_63>
+<Sentence_11>,AND <Sentence_1>,OR <Sentence_1>,AND <Sentence_1> <Sentence_11>,OR <Sentence_1> <Sentence_11>
+<Statement_415>,IN <Unknown_4> <Statement_427>
+<Statement_595>,<Statement_597>,TO <Unknown_4> <Statement_597>,FROM <Unknown_4> <Statement_597>,TO <Unknown_4> FROM <Unknown_4> <Statement_597>,FROM <Unknown_4> TO <Unknown_4> <Statement_597>
+<Unknown_29>,<Unknown_11>
+<Statement_619>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_625>,<Unknown_4> FROM <Unknown_4> <Statement_625>
+<Unknown_57>,<Unknown_49> <Unknown_55>
+<Unknown_11>,<Modality_4>
+<Statement_218>,<Unknown_4>,<Individual_3>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_234>,<Individual_3> <Statement_234>,<Unknown_4> TO <Unknown_4> <Statement_234>
+<Statement_452>,<NULL>,<Statement_454>
+<Statement_573>,<Statement_579>
+<Statement_444>,TRIP FLIGHTS <Statement_451>,TRIPS <Statement_451>,TRIP FLIGHTS FROM <Unknown_4> <Statement_451>,TRIP FLIGHTS TO <Unknown_4> <Statement_451>,TRIPS FROM <Unknown_4> <Statement_451>,TRIPS TO <Unknown_4> <Statement_451>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_451>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_451>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_451>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_451>
+<Imperative_1>,<Unknown_11> <Unknown_18> <Unknown_11> <Unknown_21> <Unknown_11>
+<Statement_310>,<Unknown_59> <Statement_305>
+<Statement_11>,AM
+<Statement_627>,<Unknown_59> <Statement_622>
+<Statement_441>,BY <Individual_5>,BY <Unknown_4>,<Statement_454>,BY <Individual_5> <Statement_454>,BY <Unknown_4> <Statement_454>
+<Statement_8>,SERVES,ARRIVES,LANDS,DEPARTS,LEAVES,USES,STOPS,OPERATES,FLIES,GOES,TRAVELS,HAS,OFFERS
+<Statement_241>,<Unknown_4>,<Individual_3>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_259>,<Individual_3> <Statement_259>,<Unknown_4> TO <Unknown_4> <Statement_259>
+<Statement_137>,<Unknown_46>,<Unknown_46> <Statement_136>
+<Statement_618>,LEG <Individual_6>,LEG <Unknown_3>,LEG <Individual_6> <Statement_625>,LEG <Unknown_3> <Statement_625>
+<Statement_485>,<Unknown_4>,<Individual_5>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_503>,<Individual_5> <Statement_503>,<Unknown_4> TO <Unknown_4> <Statement_503>
+<Statement_437>,<Statement_451>,TO <Unknown_4> <Statement_451>,FROM <Unknown_4> <Statement_451>,WITH <Unknown_4> <Statement_451>,TO <Unknown_4> FROM <Unknown_4> <Statement_451>,TO <Unknown_4> WITH <Unknown_4> <Statement_451>,FROM <Unknown_4> TO <Unknown_4> <Statement_451>,WITH <Unknown_4> TO <Unknown_4> <Statement_451>,FROM <Unknown_4> WITH <Unknown_4> <Statement_451>,WITH <Unknown_4> FROM <Unknown_4> <Statement_451>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_451>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_451>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_451>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_451>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_451>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_451>
+<WhAdv_cat>,<WhAdv_1>
+<Unknown_35>,<Class_10>
+<Sentence_2>,<Sentence_7>,TO <Unknown_4> <Sentence_7>,FROM <Unknown_4> <Sentence_7>,WITH <Unknown_4> <Sentence_7>,TO <Unknown_4> FROM <Unknown_4> <Sentence_7>,TO <Unknown_4> WITH <Unknown_4> <Sentence_7>,FROM <Unknown_4> TO <Unknown_4> <Sentence_7>,WITH <Unknown_4> TO <Unknown_4> <Sentence_7>,FROM <Unknown_4> WITH <Unknown_4> <Sentence_7>,WITH <Unknown_4> FROM <Unknown_4> <Sentence_7>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Sentence_7>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Sentence_7>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Sentence_7>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Sentence_7>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Sentence_7>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Sentence_7>
+<Statement_192>,<Unknown_4>,<Unknown_4> <Statement_210>
+<Statement_47>,<Unknown_4>,<Individual_2>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_63>,<Individual_2> <Statement_63>,<Unknown_4> TO <Unknown_4> <Statement_63>
+<Modality_6>,WANTS,ADVANTAGE,ALAMO,AVIS,BUDGET,DOLLAR,ENTERPRISE,HERTZ,NATIONAL,PAY,THRIFTY,A T A,AER LINGUS,AEROLINEAS ARGENTINAS,UNITED,UNITED AIRLINES,US AIR,VANGUARD,VIRGIN ATLANTIC,WESTAIR,WESTAIR AIRLINES,WESTJET,FIRST,SECOND,THIRD,FOURTH,FIFTH,SIXTH,SEVENTH,EIGHTH,NINTH,TENTH,ELEVENTH,TWELFTH,THIRTEENTH,FOURTEENTH,FIFTEENTH,SIXTEENTH,SEVENTEENTH,EIGHTEENTH,NINETEENTH,TWENTIETH,TWENTY FIRST,TWENTY SECOND,TWENTY THIRD,TWENTY FOURTH,TWENTY FIFTH,TWENTY SIXTH,TWENTY SEVENTH,TWENTY EIGHTH,TWENTY NINTH,THIRTIETH,THIRTY FIRST,NEW YEAR'S DAY,GROUNDHOG DAY,GROUNDHOG'S DAY,PRESIDENTS DAY,GREEK INDEPENDENCE DAY,EASTER,MEMORIAL DAY,INDEPENDENCE DAY,LABOR DAY,HALLOWEEN,THANKSGIVING,CHRISTMAS,CHRISTMAS DAY,CHRISTMAS EVE,NEW YEAR'S EVE
+<Modality_1>,BE ABLE TO,HAVE TO,HOTEL,HOTELS,HOTEL RESERVATION,HOTEL INFORMATION,GET A HOTEL,GET A HOTEL ROOM,GET A ROOM,RESERVE HOTEL,RENT HOTEL,RESERVE A HOTEL,RENT A HOTEL,RESERVE HOTEL ROOM,RENT HOTEL ROOM,RESERVE A HOTEL ROOM,RENT A HOTEL ROOM,HUNDRED,A HUNDRED,ONE HUNDRED,ONE OH OH,ONE OH ZERO,ONE ZERO OH,ONE ZERO ZERO,ONE FOUR SIX,M EIGHT ZERO,S F THREE,S H SIX,S W M,TWO V,THREE J,SEVEN V,NINE E,NINE L,NINE N,NINE X,A A,A C,A R,A S,A T,B A,B E,C O,C P,D H,D L,E V,F F,G X,H P,H Q,K W,L H,M G,N W,N X,O E,O H,O O,Q D,R P,R Z,S N,S X,T G,T W,T Z,U A,U S,W N,X J,Y X,Z W,A T L,B N A,B O S,B U R,B W I,C L E,C L T,C M H,C V G,D A L,S J C,S L C,S T L,T P A,Y K Z,Y M X,Y T Z,Y U L,Y Y Z,AMSTERDAM SCHIPOL AIRPORT,ATLANTA HARTSFIELD AIRPORT,B W I,BALTIMORE WASHINGTON,BALTIMORE WASHINGTON AIRPORT,BALTIMORE WASHINGTON INTERNATIONAL AIRPORT,BUSH INTERCONTINENTAL,BUTTONVILLE,BUTTONVILLE AIRPORT,CHARLES DE GAULLE,CHARLES DE GAULLE AIRPORT,CHARLOTTE DOUGLAS,CHARLOTTE DOUGLAS AIRPORT,CHICAGO MIDWAY,CHICAGO MIDWAY AIRPORT,WESTCHESTER AIRPORT,WESTCHESTER COUNTY AIRPORT,WILLIAM B HARTSFIELD AIRPORT,DATE,DEPARTURE DATE,ARRIVAL DATE,DAY,DEPARTURE DAY,ARRIVAL DAY,MONTH,DATE OF DEPARTURE,DAY OF DEPARTURE,DATE OF ARRIVAL,DAY OF ARRIVAL,YEAR,DATE I'M LEAVING,DAY I'M LEAVING,DATE I'M ARRIVING,DAY I'M ARRIVING,DATE I'M TAKING OFF,DAY I'M TAKING OFF,STARTING CITY,STARTING LOCATION,STARTING AIRPORT,DEPARTURE CITY,DEPARTURE LOCATION,DEPARTURE AIRPORT,START CITY,START LOCATION,START AIRPORT,DEPARTING CITY,DEPARTING LOCATION,DEPARTING AIRPORT,CITY AM I LEAVING,CITY AM I TRAVELING FROM,CITY I AM LEAVING,CITY I AM TRAVELING FROM,CITY I'M LEAVING,CITY I'M TRAVELING FROM,AIRPORT I WANT TO LEAVE,AIRPORT I WANT TO LEAVE FROM,AIRPORT I WANT TO DEPART FROM,WILL GO BACK,WANNA GO BACK,WILL GO BACK HOME,WANNA GO BACK HOME,WANT TO GO BACK,LIKE TO GO BACK,BACK,RETURN,RETURNING,RETURN HOME,RETURNING HOME,RETURN FLIGHT,RETURN BACK,COME BACK,FLY BACK,RETURN BACK HOME,COME BACK HOME,FLY BACK HOME,GO BACK HOME,GOING TO GO BACK,BOOK THIS,BOOK THIS TRIP,BOOK THIS ONE,BOOK IT,BOOK THAT,BOOK THAT TRIP,BOOK THAT ONE,A CORUNA SPAIN,AALESUND NORWAY,AALBORG DENMARK,ABERDEEN ENGLAND,ABIDJAN IVORY COAST,ABU DHABI ARAB EMIRATES,ACAPULCO MEXICO,ACCRA GHANA,ADANA TURKEY,ADDIS ABABA ETHIOPIA,ADELAIDE AUSTRALIA,NASHVILLE TENNESSEE,NATAL BRAZIL,NEW DELHI INDIA,NEW ORLEANS LOUISIANA,NEW YORK NEW YORK,ANY AIRPORT IN NEW YORK NEW YORK,NEW YORK CITY NEW YORK,ANY AIRPORT IN NEW YORK CITY NEW YORK,NEWARK NEW JERSEY,NEWBURGH NEW YORK,NEWCASTLE AUSTRALIA,NEWCASTLE ENGLAND,PORT OF SPAIN TRINIDAD,PORTLAND OREGON,PORTO ALEGRE,PORTO ALEGRE BRAZIL,PORTO PORTUGAL,PORTO SANTO,PORTO SANTO PORTUGAL,PRAGUE CZECHOSLOVAKIA,GOOD BYE,THANKS GOOD BYE,THANK YOU GOOD BYE,GOOD-BYE,THANKS GOOD-BYE,THANK YOU GOOD-BYE,GOODBYE,THANKS GOODBYE,THANK YOU GOODBYE,BYE BYE,THANKS BYE BYE,THANK YOU BYE BYE,THANKS BYE,THANK YOU BYE,HANG UP,END CALL,TERMINATE CALL,HELP,HELP PLEASE,INSTRUCTIONS,WHAT ARE OPTIONS,WHAT ARE MY OPTIONS,WHAT ARE THE OPTIONS,WHAT CAN I SAY,WHAT CAN I DO,WHAT CAN I ASK,NEXT OPTION,OTHER OPTION,ANOTHER OPTION,NEXT OPTIONS,OTHER OPTIONS,ANOTHER OPTIONS,NEXT CHOICE,OTHER CHOICE,ANOTHER CHOICE,NEXT CHOICES,OTHER CHOICES,ANOTHER CHOICES,NEXT FLIGHT,NEXT,REPEAT PLEASE,REPEAT THAT,PLEASE REPEAT,REPEAT THAT PLEASE,REPEAT IT,DON'T UNDERSTAND,DIDN'T UNDERSTAND,REPEAT THE QUESTION,REPEAT,SAY AGAIN,SAY IT AGAIN,START OVER,START AGAIN,START FROM THE BEGINNING,CLEAR HISTORY,CLEAR THE HISTORY,BEGIN AGAIN,CANCEL TRIP,CLEAR TRIP,CANCEL THE TRIP,CLEAR THE TRIP,NINETEEN NINETY ONE,NINETEEN NINETY TWO,NINETEEN NINETY THREE,NINETEEN NINETY FOUR,NINETEEN NINETY FIVE,NINETEEN NINETY SIX,NINETEEN NINETY SEVEN,NINETEEN NINETY EIGHT,NINETEEN NINETY NINE,TWO THOUSAND,TWO THOUSAND AND ONE,TWO THOUSAND ONE,TWO THOUSAND AND TWO,TWO THOUSAND TWO,TWO THOUSAND AND THREE,TWO THOUSAND THREE,NEXT YEAR,OF NEXT YEAR,ALL CORRECT,ARE CORRECT,CERTAINLY,CORRECT,CORRECT CORRECT,CORRECT THANK,CORRECT THANK YOU,FINE,I'LL TAKE IT,I WILL TAKE IT,I'LL TAKE THAT,I WILL TAKE THAT,I'LL TAKE THAT ONE,I WILL TAKE THAT ONE,I'M OKAY,IS CORRECT,IS FINE,JUST PERFECT
+<Statement_598>,<NULL>,<Statement_600>
+<Modifier_1>,TODAY,TOMORROW,YESTERDAY,<Unknown_26>
+<Statement_608>,TRANSPORTATIONS IN <Unknown_4>,TRANSPORTATIONS IN <Unknown_4> <Statement_625>
+<Statement_504>,<Unknown_46>,<Unknown_46> <Statement_503>
+<Statement_465>,BY <Individual_5>,BY <Unknown_4>,<Statement_478>,BY <Individual_5> <Statement_478>,BY <Unknown_4> <Statement_478>
+<Statement_71>,<Unknown_4>,<Individual_2>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_87>,<Individual_2> <Statement_87>,<Unknown_4> TO <Unknown_4> <Statement_87>
+<Statement_536>,<Unknown_4>,<Individual_6>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_552>,<Individual_6> <Statement_552>,<Unknown_4> TO <Unknown_4> <Statement_552>
+<Statement_371>,TRIP FLIGHTS <Statement_378>,TRIPS <Statement_378>,TRIP FLIGHTS FROM <Unknown_4> <Statement_378>,TRIP FLIGHTS TO <Unknown_4> <Statement_378>,TRIPS FROM <Unknown_4> <Statement_378>,TRIPS TO <Unknown_4> <Statement_378>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_378>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_378>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_378>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_378>
+<Statement_113>,<Unknown_59> <Statement_108>
+<Statement_322>,TRIP FLIGHTS <Statement_329>,TRIPS <Statement_329>,TRIP FLIGHTS FROM <Unknown_4> <Statement_329>,TRIP FLIGHTS TO <Unknown_4> <Statement_329>,TRIPS FROM <Unknown_4> <Statement_329>,TRIPS TO <Unknown_4> <Statement_329>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_329>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_329>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_329>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_329>
+<Unknown_3>,<Individual_1>,<Individual_3>,<Individual_4>,<Individual_5>,<Individual_6>
+<Statement_106>,<Statement_108>,TO <Unknown_4> <Statement_108>,FROM <Unknown_4> <Statement_108>,TO <Unknown_4> FROM <Unknown_4> <Statement_108>,FROM <Unknown_4> TO <Unknown_4> <Statement_108>
+<Statement_164>,<Unknown_59> <Statement_159>
+<Statement_309>,<Unknown_46>,<Unknown_46> <Statement_308>
+<Statement_358>,<Unknown_59> <Statement_353>
+<Statement_145>,<Statement_159>,TO <Unknown_4> <Statement_159>,FROM <Unknown_4> <Statement_159>,WITH <Unknown_4> <Statement_159>,TO <Unknown_4> FROM <Unknown_4> <Statement_159>,TO <Unknown_4> WITH <Unknown_4> <Statement_159>,FROM <Unknown_4> TO <Unknown_4> <Statement_159>,WITH <Unknown_4> TO <Unknown_4> <Statement_159>,FROM <Unknown_4> WITH <Unknown_4> <Statement_159>,WITH <Unknown_4> FROM <Unknown_4> <Statement_159>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_159>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_159>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_159>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_159>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_159>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_159>
+<Statement_531>,<Unknown_45> <Statement_525>
+<Statement_460>,<Unknown_4>,<Unknown_4> <Statement_478>
+<Statement_131>,TO <Unknown_4>,FROM <Unknown_4>,<Statement_133>,TO <Unknown_4> <Statement_136>,FROM <Unknown_4> <Statement_136>,TO <Unknown_4> <Statement_133>,FROM <Unknown_4> <Statement_133>,TO <Unknown_4> FROM <Unknown_4> <Statement_133>,FROM <Unknown_4> TO <Unknown_4> <Statement_133>
+<Statement_252>,LEG <Individual_3>,LEG <Unknown_3>,LEG <Individual_3> <Statement_259>,LEG <Unknown_3> <Statement_259>
+<Statement_496>,LEG <Individual_5>,LEG <Unknown_3>,LEG <Individual_5> <Statement_503>,LEG <Unknown_3> <Statement_503>
+<Statement_36>,<Statement_42>
+<Unknown_28>,<Class_3>
+<Statement_94>,<Statement_108>,TO <Unknown_4> <Statement_108>,FROM <Unknown_4> <Statement_108>,WITH <Unknown_4> <Statement_108>,TO <Unknown_4> FROM <Unknown_4> <Statement_108>,TO <Unknown_4> WITH <Unknown_4> <Statement_108>,FROM <Unknown_4> TO <Unknown_4> <Statement_108>,WITH <Unknown_4> TO <Unknown_4> <Statement_108>,FROM <Unknown_4> WITH <Unknown_4> <Statement_108>,WITH <Unknown_4> FROM <Unknown_4> <Statement_108>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_108>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_108>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_108>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_108>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_108>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_108>
+<Statement_253>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_259>,<Unknown_4> FROM <Unknown_4> <Statement_259>
+<Statement_291>,<Statement_305>,TO <Unknown_4> <Statement_305>,FROM <Unknown_4> <Statement_305>,WITH <Unknown_4> <Statement_305>,TO <Unknown_4> FROM <Unknown_4> <Statement_305>,TO <Unknown_4> WITH <Unknown_4> <Statement_305>,FROM <Unknown_4> TO <Unknown_4> <Statement_305>,WITH <Unknown_4> TO <Unknown_4> <Statement_305>,FROM <Unknown_4> WITH <Unknown_4> <Statement_305>,WITH <Unknown_4> FROM <Unknown_4> <Statement_305>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_305>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_305>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_305>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_305>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_305>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_305>
+<Unknown_58>,<Unknown_44> <Unknown_55>
+<Modality_2>,CAN,MUST,TAXI,CAB,BUS,SUBWAY,TRAIN,GROUND TRANSPORTATION,GROUND SERVICE,GROUND SERVICES
+<Statement_384>,<Unknown_45> <Statement_378>
+<Class_12>,<Objecttype_7> <Class_19>,<Unknown_42> <Class_20>,FLIGHT <Class_13>,HOTEL <Class_14>,ROUND <Class_15>,STOP <Class_14>,TRIP <Class_17>
+<Statement_290>,<Unknown_4>,<Unknown_4> <Statement_308>
+<Sentence_10>,<Sentence_7>
+<Statement_390>,<Unknown_4>,<Individual_5>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_406>,<Individual_5> <Statement_406>,<Unknown_4> TO <Unknown_4> <Statement_406>
+<Statement_231>,<Statement_237>
+<Statement_29>,TRIP FLIGHTS <Statement_36>,TRIPS <Statement_36>,TRIP FLIGHTS FROM <Unknown_4> <Statement_36>,TRIP FLIGHTS TO <Unknown_4> <Statement_36>,TRIPS FROM <Unknown_4> <Statement_36>,TRIPS TO <Unknown_4> <Statement_36>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_36>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_36>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_36>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_36>
+<Statement_506>,<Unknown_45> <Statement_500>
+<Statement_236>,<Unknown_59> <Statement_231>
+<Sentence_12>,<Unknown_59> <Sentence_7>
+<Statement_486>,TRANSPORTATIONS IN <Unknown_4>,TRANSPORTATIONS IN <Unknown_4> <Statement_503>
+<Statement_360>,<Individual_4> <Statement_379>,<Objecttype_8> <Statement_380>,<Unknown_4> <Statement_379>,<Unknown_43> <Statement_383>,AT <Statement_361>,FLIGHTS <Statement_362>,FROM <Statement_363>,GROUND <Statement_364>,HOTELS <Statement_365>,IN <Statement_361>,LEAVED <Statement_367>,LEGS <Statement_368>,OFFERRED <Statement_367>,OPERATED <Statement_367>,ROUND <Statement_371>,SERVED <Statement_367>,STOPS <Statement_365>,THE <Statement_374>,TO <Statement_375>,TRIPS <Statement_376>,USED <Statement_367>
+<Statement_26>,BY <Individual_2>,BY <Unknown_4>,<Statement_39>,BY <Individual_2> <Statement_39>,BY <Unknown_4> <Statement_39>
+<Statement_207>,<Statement_213>
+<Statement_434>,<Individual_5> <Statement_452>,<Objecttype_8> <Statement_453>,<Unknown_4> <Statement_452>,<Unknown_43> <Statement_456>,A <Statement_435>,AT <Statement_436>,FLIGHTS <Statement_437>,FROM <Statement_438>,HOTELS <Statement_439>,IN <Statement_436>,LEAVED <Statement_441>,OFFERRED <Statement_441>,OPERATED <Statement_441>,ROUND <Statement_444>,SERVED <Statement_441>,STOPS <Statement_439>,THE <Statement_447>,TO <Statement_448>,TRIPS <Statement_449>,USED <Statement_441>
+<Unknown_44>,<Modifier_4>
+<Statement_428>,<NULL>,<Statement_430>
+<Class_33>,<Objecttype_9>,IS
+<Statement_534>,<Unknown_4>,<Unknown_4> <Statement_552>
+<Statement_417>,BY <Individual_5>,BY <Unknown_4>,<Statement_430>,BY <Individual_5> <Statement_430>,BY <Unknown_4> <Statement_430>
+<Statement_65>,<Unknown_59> <Statement_60>
+<Statement_117>,<Statement_133>,TO <Unknown_4> <Statement_133>,FROM <Unknown_4> <Statement_133>,WITH <Unknown_4> <Statement_133>,TO <Unknown_4> FROM <Unknown_4> <Statement_133>,TO <Unknown_4> WITH <Unknown_4> <Statement_133>,FROM <Unknown_4> TO <Unknown_4> <Statement_133>,WITH <Unknown_4> TO <Unknown_4> <Statement_133>,FROM <Unknown_4> WITH <Unknown_4> <Statement_133>,WITH <Unknown_4> FROM <Unknown_4> <Statement_133>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_133>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_133>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_133>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_133>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_133>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_133>
+<Statement_508>,<Individual_6> <Statement_526>,<Objecttype_8> <Statement_527>,<Unknown_4> <Statement_526>,<Unknown_43> <Statement_530>,A <Statement_509>,AT <Statement_510>,FLIGHTS <Statement_511>,FROM <Statement_512>,HOTELS <Statement_513>,IN <Statement_510>,LEAVED <Statement_515>,OFFERRED <Statement_515>,OPERATED <Statement_515>,ROUND <Statement_518>,SERVED <Statement_515>,STOPS <Statement_513>,THE <Statement_521>,TO <Statement_522>,TRIPS <Statement_523>,USED <Statement_515>
+<Objecttype_8>,<NULL>,AIRLINES,AIRPORTS,AIRPORT SERVICES,GROUND TRANSPORTATIONS,ARRIVALS,RENTAL CARS,KINDS OF CARS,TYPES OF CARS,CAR TYPES,CITIES,COUNTRIES,DEPARTURES,FLIGHTS,HOTELS,FLIGHT LEGS,FIRST LEGS,SECOND LEGS,THIRD LEGS,MEALS,AIRCRAFTS,AIRPLANES,PLANES,RENTALS,FIRST RENTALS,SECOND RENTALS,STATES,STAYS,FIRST STAYS,SECOND STAYS,STOPOVERS,JOURNEYS,TRAVELS,TRIPS,<Class_11> <Unknown_8>
+<Clause_Cl_cat>,<Clause_1>,<Clause_2>,<Clause_3>
+<Statement_91>,<Individual_2> <Statement_109>,<Objecttype_8> <Statement_110>,<Unknown_4> <Statement_109>,<Unknown_43> <Statement_113>,OPERATED <Statement_100>,ROUND <Statement_101>,SERVED <Statement_100>,STOPS <Statement_103>,THE <Statement_104>,TO <Statement_105>,TRIPS <Statement_106>,USED <Statement_100>,A <Statement_92>,AT <Statement_93>,FLIGHTS <Statement_94>,FROM <Statement_95>,HOTELS <Statement_103>,IN <Statement_93>,LEAVED <Statement_100>,OFFERRED <Statement_100>
+<Statement_81>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_87>,<Unknown_4> FROM <Unknown_4> <Statement_87>
+<Statement_288>,<Individual_4> <Statement_306>,<Objecttype_8> <Statement_307>,<Unknown_4> <Statement_306>,<Unknown_43> <Statement_310>,A <Statement_289>,AT <Statement_290>,FLIGHTS <Statement_291>,FROM <Statement_292>,HOTELS <Statement_293>,IN <Statement_290>,LEAVED <Statement_295>,OFFERRED <Statement_295>,OPERATED <Statement_295>,ROUND <Statement_298>,SERVED <Statement_295>,STOPS <Statement_293>,THE <Statement_301>,TO <Statement_302>,TRIPS <Statement_303>,USED <Statement_295>
+<Class_15>,TRIP FLIGHT FROM <Unknown_4> TO <Unknown_4>,TRIP FLIGHT FROM <Unknown_4>,TRIP FLIGHT TO <Unknown_4> FROM <Unknown_4>,TRIP FLIGHT TO <Unknown_4>,TRIP FLIGHT,TRIP FROM <Unknown_4> TO <Unknown_4>,TRIP FROM <Unknown_4>,TRIP TO <Unknown_4> FROM <Unknown_4>,TRIP TO <Unknown_4>,TRIP,TRIP FLIGHT <Class_18>,TRIP <Class_18>,TRIP FLIGHT FROM <Unknown_4> <Class_18>,TRIP FLIGHT TO <Unknown_4> <Class_18>,TRIP FROM <Unknown_4> <Class_18>,TRIP TO <Unknown_4> <Class_18>,TRIP FLIGHT FROM <Unknown_4> TO <Unknown_4> <Class_18>,TRIP FLIGHT TO <Unknown_4> FROM <Unknown_4> <Class_18>,TRIP FROM <Unknown_4> TO <Unknown_4> <Class_18>,TRIP TO <Unknown_4> FROM <Unknown_4> <Class_18>
+<Statement_112>,<Unknown_46>,<Unknown_46> <Statement_111>
+<Statement_410>,<Individual_5> <Statement_428>,<Objecttype_8> <Statement_429>,<Unknown_4> <Statement_428>,<Unknown_43> <Statement_432>,A <Statement_411>,AT <Statement_412>,FLIGHTS <Statement_413>,FROM <Statement_414>,HOTELS <Statement_415>,IN <Statement_412>,LEAVED <Statement_417>,OFFERRED <Statement_417>,OPERATED <Statement_417>,ROUND <Statement_420>,SERVED <Statement_417>,STOPS <Statement_415>,THE <Statement_423>,TO <Statement_424>,TRIPS <Statement_425>,USED <Statement_417>
+<Statement_45>,<Unknown_4>,<Unknown_4> <Statement_63>
+<Statement_607>,<Unknown_4>,<Individual_6>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_625>,<Individual_6> <Statement_625>,<Unknown_4> TO <Unknown_4> <Statement_625>
+<Statement_316>,<Unknown_4>,<Individual_4>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_332>,<Individual_4> <Statement_332>,<Unknown_4> TO <Unknown_4> <Statement_332>
+<Statement_204>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_210>,<Unknown_4> FROM <Unknown_4> <Statement_210>
+<Statement_579>,<Unknown_45> <Statement_573>
+<WhPron_3>,HOW MANY <Unknown_2>,WHICH <Unknown_2>
+<Statement_609>,IN <Unknown_4> <Statement_622>
+<Unknown_27>,<Class_11>
+<Statement_447>,LEG <Individual_5>,LEG <Unknown_3>,LEG <Individual_5> <Statement_454>,LEG <Unknown_3> <Statement_454>
+<Statement_278>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_284>,<Unknown_4> FROM <Unknown_4> <Statement_284>
+<Statement_70>,<Statement_84>,TO <Unknown_4> <Statement_84>,FROM <Unknown_4> <Statement_84>,WITH <Unknown_4> <Statement_84>,TO <Unknown_4> FROM <Unknown_4> <Statement_84>,TO <Unknown_4> WITH <Unknown_4> <Statement_84>,FROM <Unknown_4> TO <Unknown_4> <Statement_84>,WITH <Unknown_4> TO <Unknown_4> <Statement_84>,FROM <Unknown_4> WITH <Unknown_4> <Statement_84>,WITH <Unknown_4> FROM <Unknown_4> <Statement_84>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_84>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_84>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_84>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_84>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_84>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_84>
+<Statement_239>,<Unknown_4>,<Unknown_4> <Statement_259>
+<Statement_116>,<Unknown_4>,<Unknown_4> <Statement_136>
+<Statement_69>,<Unknown_4>,<Unknown_4> <Statement_87>
+<Statement_268>,<Unknown_4>,<Individual_4>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_284>,<Individual_4> <Statement_284>,<Unknown_4> TO <Unknown_4> <Statement_284>
+<Statement_334>,<Unknown_59> <Statement_329>
+<Statement_374>,LEG <Individual_4>,LEG <Unknown_3>,LEG <Individual_4> <Statement_381>,LEG <Unknown_3> <Statement_381>
+<Statement_274>,TRIP FLIGHTS <Statement_281>,TRIPS <Statement_281>,TRIP FLIGHTS FROM <Unknown_4> <Statement_281>,TRIP FLIGHTS TO <Unknown_4> <Statement_281>,TRIPS FROM <Unknown_4> <Statement_281>,TRIPS TO <Unknown_4> <Statement_281>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_281>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_281>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_281>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_281>
+<Statement_479>,<Unknown_46>,<Unknown_46> <Statement_478>
+<Statement_197>,BY <Individual_3>,BY <Unknown_4>,<Statement_210>,BY <Individual_3> <Statement_210>,BY <Unknown_4> <Statement_210>
+<Statement_561>,IN <Unknown_4> <Statement_573>
+<Unknown_18>,<Statement_18>
+<Statement_191>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_3>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_210>,TRIP FROM <Unknown_4> <Statement_210>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_210>,LEG OF <Individual_3> <Statement_210>,LEG OF <Unknown_4> <Statement_210>
+<Statement_257>,<NULL>,<Statement_259>
+<Statement_159>,<Statement_165>
+<Unknown_43>,<Modifier_3>,<Modality_4>
+<Class_27>,TO <Unknown_4> FROM <Unknown_4>,TO <Unknown_4>,FROM <Unknown_4> TO <Unknown_4>,FROM <Unknown_4>,<Class_28>,TO <Unknown_4> <Class_28>,FROM <Unknown_4> <Class_28>,TO <Unknown_4> FROM <Unknown_4> <Class_28>,FROM <Unknown_4> TO <Unknown_4> <Class_28>
+<Statement_95>,<Unknown_4>,<Individual_2>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_111>,<Individual_2> <Statement_111>,<Unknown_4> TO <Unknown_4> <Statement_111>
+<Statement_628>,<Unknown_45> <Statement_622>
+<Statement_582>,<Unknown_4>,<Unknown_4> <Statement_600>
+<Unknown_62>,TRIP FLIGHTS <Unknown_65>,TRIPS <Unknown_65>,TRIP FLIGHTS FROM <Unknown_4> <Unknown_65>,TRIP FLIGHTS TO <Unknown_4> <Unknown_65>,TRIPS FROM <Unknown_4> <Unknown_65>,TRIPS TO <Unknown_4> <Unknown_65>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Unknown_65>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Unknown_65>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Unknown_65>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Unknown_65>
+<Statement_427>,<Statement_433>
+<Statement_553>,<Unknown_46>,<Unknown_46> <Statement_552>
+<Statement_135>,<Statement_133>
+<Statement_463>,IN <Unknown_4> <Statement_475>
+<Statement_448>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_454>,<Unknown_4> FROM <Unknown_4> <Statement_454>
+<Statement_68>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_2>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_87>,TRIP FROM <Unknown_4> <Statement_87>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_87>,LEG OF <Individual_2> <Statement_87>,LEG OF <Unknown_4> <Statement_87>
+<Statement_233>,<Statement_231>
+<Statement_103>,IN <Unknown_4> <Statement_108>
+<Unknown_38>,<Class_33>
+<Statement_144>,<Unknown_4>,<Unknown_4> <Statement_162>
+<Unknown_7>,<Objecttype_7>
+<Class_11>,<Objecttype_2>
+<Class_23>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4>,TO <Unknown_4> FROM <Unknown_4>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4>,TO <Unknown_4> WITH <Unknown_4>,TO <Unknown_4>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4>,FROM <Unknown_4> TO <Unknown_4>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4>,WITH <Unknown_4> TO <Unknown_4>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4>,FROM <Unknown_4> WITH <Unknown_4>,FROM <Unknown_4>,WITH <Unknown_4> FROM <Unknown_4>,WITH <Unknown_4>,<Class_28>,TO <Unknown_4> <Class_28>,FROM <Unknown_4> <Class_28>,WITH <Unknown_4> <Class_28>,TO <Unknown_4> FROM <Unknown_4> <Class_28>,TO <Unknown_4> WITH <Unknown_4> <Class_28>,FROM <Unknown_4> TO <Unknown_4> <Class_28>,WITH <Unknown_4> TO <Unknown_4> <Class_28>,FROM <Unknown_4> WITH <Unknown_4> <Class_28>,WITH <Unknown_4> FROM <Unknown_4> <Class_28>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Class_28>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Class_28>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Class_28>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Class_28>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Class_28>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Class_28>
+<Statement_267>,<Statement_281>,TO <Unknown_4> <Statement_281>,FROM <Unknown_4> <Statement_281>,WITH <Unknown_4> <Statement_281>,TO <Unknown_4> FROM <Unknown_4> <Statement_281>,TO <Unknown_4> WITH <Unknown_4> <Statement_281>,FROM <Unknown_4> TO <Unknown_4> <Statement_281>,WITH <Unknown_4> TO <Unknown_4> <Statement_281>,FROM <Unknown_4> WITH <Unknown_4> <Statement_281>,WITH <Unknown_4> FROM <Unknown_4> <Statement_281>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_281>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_281>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_281>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_281>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_281>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_281>
+<Statement_487>,IN <Unknown_4> <Statement_500>
+<Statement_134>,<NULL>,<Statement_136>
+<Statement_292>,<Unknown_4>,<Individual_4>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_308>,<Individual_4> <Statement_308>,<Unknown_4> TO <Unknown_4> <Statement_308>
+<Objecttype_1>,<NULL>,TRAVELDOMAINENG_TOMORROW
+<Statement_38>,<Statement_36>
+<Statement_472>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_478>,<Unknown_4> FROM <Unknown_4> <Statement_478>
+<Statement_584>,<Unknown_4>,<Individual_6>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_600>,<Individual_6> <Statement_600>,<Unknown_4> TO <Unknown_4> <Statement_600>
+<Statement_312>,<Individual_4> <Statement_330>,<Objecttype_8> <Statement_331>,<Unknown_4> <Statement_330>,<Unknown_43> <Statement_334>,A <Statement_313>,AT <Statement_314>,FLIGHTS <Statement_315>,FROM <Statement_316>,HOTELS <Statement_317>,IN <Statement_314>,LEAVED <Statement_319>,OFFERRED <Statement_319>,OPERATED <Statement_319>,ROUND <Statement_322>,SERVED <Statement_319>,STOPS <Statement_317>,THE <Statement_325>,TO <Statement_326>,TRIPS <Statement_327>,USED <Statement_319>
+<Modality_5>,WANT,ALABAMA,ALASKA,ARIZONA,ARKANSAS,CALIFORNIA,COLORADO,CONNECTICUT,D C,DELAWARE,FLORIDA,GEORGIA,HAWAII,IDAHO,ILLINOIS,INDIANA,IOWA,KANSAS,KENTUCKY,LOUISIANA,MAINE,MANITOBA,MANITOBA CANADA,MARYLAND,MASSACHUSETTS,MICHIGAN,MINNESOTA,MISSISSIPPI,SOUTH CAROLINA,SOUTH DAKOTA,TENNESSEE,TEXAS,UTAH,VERMONT,VIRGINIA,WASHINGTON,WASHINGTON STATE,WEST VIRGINIA,WISCONSIN,WYOMING,DO NOT WANT,DON'T WANT,DO NOT WANT TO,DON'T WANT TO,DO NOT WANT A,DON'T WANT A,ONE,TWO,THREE,FOUR,FIVE,SIX,SEVEN,EIGHT,NINE,TEN,ELEVEN,TWELVE,THIRTEEN,FOURTEEN,FIFTEEN,SIXTEEN,SEVENTEEN,EIGHTEEN,NINETEEN,TWENTY,THIRTY,TWENTY ONE,TWENTY TWO,TWENTY THREE,TWENTY FOUR,TWENTY FIVE,TWENTY SIX,TWENTY SEVEN,TWENTY EIGHT,TWENTY NINE,THIRTY ONE,JANUARY,FEBRUARY,MARCH,APRIL,MAY,JUNE,JULY,AUGUST,SEPTEMBER,OCTOBER,NOVEMBER,DECEMBER,JAN,FEB,MAR,APR,JUN,JUL,AUG,SEP,SEPT,OCT,NOV,DEC,OH,TWENTY,THIRTY,FOURTY,FORTY,FIFTY,SIXTY,SEVENTY,EIGHTY,NINETY
+<Statement_123>,OF <Individual_2>,OF <Unknown_4>,OF <Individual_2> <Statement_136>,OF <Unknown_4> <Statement_136>
+<Individual_5>,XXX,A T A,A CORUNA,SPAIN,A N A,AALBORG,DENMARK,AALESUND,NORWAY,ABERDEEN,ENGLAND,ABIDJAN,IVORY COAST,ABU DHABI,ARAB EMIRATES,ACAPULCO,MEXICO,ACCOR RESERVATION SERVICES,ACCRA,GHANA,ADAMS MARK,ADANA,TURKEY,ADDIS ABABA,ETHIOPIA,ADELAIDE,AUSTRALIA,AIR LINGUS,AEROLINEAS ARGENTINAS,AEROMEXICO,AGADIR,MOROCCO,AIR ALLIANCE,AIRATLANTIC,A C,AIR CANADA,AIR FRANCE,AIR JAMAICA,NINE,E,L,N,X,T,G,Z,D,H,O,S,P,Q,R,U A,Q D,F F,THREE J,X J,W N,C O,A R,E V,SEVEN V,TWO V,K W,Z W,G X,N X,Y X,AIR NEW ZEALAND,AIR NOVA,AIR ONTARIO,AIR PORTUGAL,AIR TRAN AIRWAYS,A T,AIR WISCONSIN,AIRCO SERVICES,AJACCIO,FRANCE,AKRON,OHIO,AL HOCEIMA,ALABAMA,ALASKA,AIR,AIRLINES,ALBANY,NEW YORK,ALBUQUERQUE,NEW MEXICO,ALEXANDRIA,EGYPT,ALGERIA,ALGIERS,ALICANTE,ALITALIA,ALL NIPPON AIRWAYS,ALL SUITES,ALLEGRO RESORT,ALLENTOWN,P A,PENNSYLVANIA,ALMERIA,ALOHA AIRLINES,ALPHA AIR,ALTA,AMARILLO,TEXAS,AMERICA WEST,AMERICA OFF ROAD,AMERICAN,TRANS AIR,AMNERICAN,A A,AMERICAN AIRLINES,AMERISUITES,AMMAN,JORDAN,AMSTERDAM,HOLLAND,NETHERLANDS,ANASAZI ACCESS,ANCHORAGE,ANGELHOLM,SWEDEN,ANGLET,ANGOULEME,ANKARA,ANSETT AUSTRALIA,ANTALYA,ANTANANARIVO,MADAGASCAR,ANTWERP,B E,BUSINESS EXPRESS,BUTTONVILLE,C C AIR,C M NET,CAIRNS,CAIRO,CALCUTTA,CALGARY,ALBERTA,CANADA,CALVI,CAMBERLEY,CAMBODIA,CAMELOT INTERNATIONAL LIMITED,CAMINO REAL,CAMPINAS,CAMPO GRANDE,CANADIAN,AIRLINES INTERNATIONAL,CANADIAN AIRLINES INTERNATIONAL,CANADIAN PACIFIC,CANCUN,CANTON,CAPE VERDE,CAPETOWN,CARDIFF,CARIBBEAN,CARLTHOTELS CARLT,CARLYLE,CARNIVAL,AIR LINES,CASABLANCA,CASPER,WYOMING,C P,CATHAY PACIFIC,CAVANAUGHS,CEASAR PARK,CEDAR RAPIDS,IOWA,CHAMBERY,CHAPEL HILL,NORTH CAROLINA,CHARLES DE GAULLE,PARIS CHARLES DE GAULLE AIRPORT,CHARLESTON,SOUTH CAROLINA,WEST VIRGINIA,CHARLOTTE,CHARLOTTE DOUGLAS,CHARLOTTETOWN,PRINCE EDWARD ISLAND,CHATTANOOGA,CHEJU,KOREA,CHENNAI,CHICAGO,ILLINOIS,CHICAGO MIDWAY,CHICAGO O HARE,CHINA AIRLINES,CHRISTCHURCH,CHRISTMAN AIR SYSTEM,CINCINNATI,WILMINGTON,WINDHOEK,WINGATE,WINNIPEG,WORLD,WORLD CLASS,WORLDRES INCORPORATED,WROCLAW,WYNDHAM,XIAMEN,YOGYAKARTA,YUMA,ZAGREB,ZANZIBAR,ZARAGOZA,ZURICH
+<Statement_375>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_381>,<Unknown_4> FROM <Unknown_4> <Statement_381>
+<Statement_242>,TRANSPORTATIONS IN <Unknown_4>,TRANSPORTATIONS IN <Unknown_4> <Statement_259>
+<Statement_349>,LEG <Individual_4>,LEG <Unknown_3>,LEG <Individual_4> <Statement_356>,LEG <Unknown_3> <Statement_356>
+<Modality_4>,<NULL>
+<Statement_361>,<Unknown_4>,<Unknown_4> <Statement_381>
+<Class_31>,<Unknown_45>,<Unknown_45> <Class_28>
+<Statement_497>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_503>,<Unknown_4> FROM <Unknown_4> <Statement_503>
+<Statement_130>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_136>,<Unknown_4> FROM <Unknown_4> <Statement_136>
+<Statement_456>,<Unknown_59> <Statement_451>
+<Statement_90>,<Unknown_45> <Statement_84>
+<Statement_435>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_5>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_454>,TRIP FROM <Unknown_4> <Statement_454>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_454>,LEG OF <Individual_5> <Statement_454>,LEG OF <Unknown_4> <Statement_454>
+<Statement_58>,<Statement_60>,TO <Unknown_4> <Statement_60>,FROM <Unknown_4> <Statement_60>,TO <Unknown_4> FROM <Unknown_4> <Statement_60>,FROM <Unknown_4> TO <Unknown_4> <Statement_60>
+<Class_1>,<Objecttype_1>
+<Modality_3>,CAN'T,MUSTN'T
+<Statement_590>,TRIP FLIGHTS <Statement_597>,TRIPS <Statement_597>,TRIP FLIGHTS FROM <Unknown_4> <Statement_597>,TRIP FLIGHTS TO <Unknown_4> <Statement_597>,TRIPS FROM <Unknown_4> <Statement_597>,TRIPS TO <Unknown_4> <Statement_597>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_597>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_597>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_597>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_597>
+<Statement_379>,<NULL>,<Statement_381>
+<Statement_16>,AREN'T,DON'T,NONSTOP,DIRECT,THIS,NEXT,NOW,AFTER NEXT,ONE WAY,ONE-WAY,NOT RETURNING,NO RETURN,ROUND TRIP,THREE LEG,THREE SEGMENT
+<Statement_14>,DOES,IS
+<Statement_337>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_4>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_356>,TRIP FROM <Unknown_4> <Statement_356>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_356>,LEG OF <Individual_4> <Statement_356>,LEG OF <Unknown_4> <Statement_356>
+<Unknown_9>,<Objecttype_9>
+<Statement_170>,<Unknown_4>,<Individual_3>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_186>,<Individual_3> <Statement_186>,<Unknown_4> TO <Unknown_4> <Statement_186>
+<Statement_594>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_600>,<Unknown_4> FROM <Unknown_4> <Statement_600>
+<Modifier_2>,<NULL>,<Unknown_27>
+<Statement_339>,<Statement_353>,TO <Unknown_4> <Statement_353>,FROM <Unknown_4> <Statement_353>,WITH <Unknown_4> <Statement_353>,TO <Unknown_4> FROM <Unknown_4> <Statement_353>,TO <Unknown_4> WITH <Unknown_4> <Statement_353>,FROM <Unknown_4> TO <Unknown_4> <Statement_353>,WITH <Unknown_4> TO <Unknown_4> <Statement_353>,FROM <Unknown_4> WITH <Unknown_4> <Statement_353>,WITH <Unknown_4> FROM <Unknown_4> <Statement_353>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_353>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_353>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_353>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_353>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_353>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_353>
+<Unknown_22>,<Statement_190>,<Statement_312>,<Statement_434>,<Statement_556>,<Statement_67>
+<Statement_254>,TO <Unknown_4>,FROM <Unknown_4>,<Statement_256>,TO <Unknown_4> <Statement_259>,FROM <Unknown_4> <Statement_259>,TO <Unknown_4> <Statement_256>,FROM <Unknown_4> <Statement_256>,TO <Unknown_4> FROM <Unknown_4> <Statement_256>,FROM <Unknown_4> TO <Unknown_4> <Statement_256>
+<Statement_183>,<Statement_189>
+<Sentence_1>,<Clause_1> <Sentence_8>,<Clause_3> <Sentence_8>,<Objecttype_8> <Sentence_10>,<Unknown_43> <Sentence_12>,FLIGHTS <Sentence_2>,HOTELS <Sentence_3>,ROUND <Sentence_4>,STOPS <Sentence_3>,TRIPS <Sentence_6>
+<Statement_368>,OF <Individual_4>,OF <Unknown_4>,OF <Individual_4> <Statement_381>,OF <Unknown_4> <Statement_381>
+<Statement_509>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_6>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_528>,TRIP FROM <Unknown_4> <Statement_528>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_528>,LEG OF <Individual_6> <Statement_528>,LEG OF <Unknown_4> <Statement_528>
+<Unknown_2>,<Class_22>
+<Statement_522>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_528>,<Unknown_4> FROM <Unknown_4> <Statement_528>
+<Statement_165>,<Unknown_45> <Statement_159>
+<Statement_593>,LEG <Individual_6>,LEG <Unknown_3>,LEG <Individual_6> <Statement_600>,LEG <Unknown_3> <Statement_600>
+<Statement_364>,TRANSPORTATIONS IN <Unknown_4>,TRANSPORTATIONS IN <Unknown_4> <Statement_381>
+<Statement_50>,BY <Individual_2>,BY <Unknown_4>,<Statement_63>,BY <Individual_2> <Statement_63>,BY <Unknown_4> <Statement_63>
+<Statement_53>,TRIP FLIGHTS <Statement_60>,TRIPS <Statement_60>,TRIP FLIGHTS FROM <Unknown_4> <Statement_60>,TRIP FLIGHTS TO <Unknown_4> <Statement_60>,TRIPS FROM <Unknown_4> <Statement_60>,TRIPS TO <Unknown_4> <Statement_60>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_60>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_60>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_60>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_60>
+<Statement_74>,BY <Individual_2>,BY <Unknown_4>,<Statement_87>,BY <Individual_2> <Statement_87>,BY <Unknown_4> <Statement_87>
+<Statement_527>,<Statement_525>
+<Statement_160>,<NULL>,<Statement_162>
+<Statement_162>,<Statement_163>
+<Unknown_1>,<Class_12>
+<Statement_533>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_6>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_552>,TRIP FROM <Unknown_4> <Statement_552>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_552>,LEG OF <Individual_6> <Statement_552>,LEG OF <Unknown_4> <Statement_552>
+<Statement_581>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_6>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_600>,TRIP FROM <Unknown_4> <Statement_600>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_600>,LEG OF <Individual_6> <Statement_600>,LEG OF <Unknown_4> <Statement_600>
+<Statement_186>,<Statement_187>
+<Statement_258>,<Statement_256>
+<Sentence_3>,IN <Unknown_4> <Sentence_7>
+<Unknown_55>,<Unknown_58>
+<Statement_238>,<Individual_3> <Statement_257>,<Objecttype_8> <Statement_258>,<Unknown_4> <Statement_257>,<Unknown_43> <Statement_261>,AT <Statement_239>,FLIGHTS <Statement_240>,FROM <Statement_241>,GROUND <Statement_242>,HOTELS <Statement_243>,IN <Statement_239>,LEAVED <Statement_245>,LEGS <Statement_246>,OFFERRED <Statement_245>,OPERATED <Statement_245>,ROUND <Statement_249>,SERVED <Statement_245>,STOPS <Statement_243>,THE <Statement_252>,TO <Statement_253>,TRIPS <Statement_254>,USED <Statement_245>
+<Statement_331>,<Statement_329>
+<Statement_542>,TRIP FLIGHTS <Statement_549>,TRIPS <Statement_549>,TRIP FLIGHTS FROM <Unknown_4> <Statement_549>,TRIP FLIGHTS TO <Unknown_4> <Statement_549>,TRIPS FROM <Unknown_4> <Statement_549>,TRIPS TO <Unknown_4> <Statement_549>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_549>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_549>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_549>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_549>
+<Statement_330>,<NULL>,<Statement_332>
+<Statement_32>,LEG <Individual_1>,LEG <Unknown_3>,LEG <Individual_1> <Statement_39>,LEG <Unknown_3> <Statement_39>
+<Statement_237>,<Unknown_45> <Statement_231>
+<Sentence_6>,<Sentence_7>,TO <Unknown_4> <Sentence_7>,FROM <Unknown_4> <Sentence_7>,TO <Unknown_4> FROM <Unknown_4> <Sentence_7>,FROM <Unknown_4> TO <Unknown_4> <Sentence_7>
+<Statement_554>,<Unknown_59> <Statement_549>
+<Statement_414>,<Unknown_4>,<Individual_5>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_430>,<Individual_5> <Statement_430>,<Unknown_4> TO <Unknown_4> <Statement_430>
+<Statement_147>,IN <Unknown_4> <Statement_159>
+<Statement_72>,IN <Unknown_4> <Statement_84>
+<Statement_219>,IN <Unknown_4> <Statement_231>
+<Class_30>,<Unknown_59>,<Unknown_59> <Class_28>
+<Statement_406>,<Statement_407>
+<Statement_376>,TO <Unknown_4>,FROM <Unknown_4>,<Statement_378>,TO <Unknown_4> <Statement_381>,FROM <Unknown_4> <Statement_381>,TO <Unknown_4> <Statement_378>,FROM <Unknown_4> <Statement_378>,TO <Unknown_4> FROM <Unknown_4> <Statement_378>,FROM <Unknown_4> TO <Unknown_4> <Statement_378>
+<Statement_217>,<Statement_231>,TO <Unknown_4> <Statement_231>,FROM <Unknown_4> <Statement_231>,WITH <Unknown_4> <Statement_231>,TO <Unknown_4> FROM <Unknown_4> <Statement_231>,TO <Unknown_4> WITH <Unknown_4> <Statement_231>,FROM <Unknown_4> TO <Unknown_4> <Statement_231>,WITH <Unknown_4> TO <Unknown_4> <Statement_231>,FROM <Unknown_4> WITH <Unknown_4> <Statement_231>,WITH <Unknown_4> FROM <Unknown_4> <Statement_231>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_231>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_231>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_231>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_231>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_231>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_231>
+<Statement_510>,<Unknown_4>,<Unknown_4> <Statement_528>
+<Statement_166>,<Individual_3> <Statement_184>,<Objecttype_8> <Statement_185>,<Unknown_4> <Statement_184>,<Unknown_43> <Statement_188>,A <Statement_167>,AT <Statement_168>,FLIGHTS <Statement_169>,FROM <Statement_170>,HOTELS <Statement_171>,IN <Statement_168>,LEAVED <Statement_173>,OFFERRED <Statement_173>,OPERATED <Statement_173>,ROUND <Statement_176>,SERVED <Statement_173>,STOPS <Statement_171>,THE <Statement_179>,TO <Statement_180>,TRIPS <Statement_181>,USED <Statement_173>
+<Statement_605>,<Unknown_4>,<Unknown_4> <Statement_625>
+<Statement_528>,<Statement_529>
+<Class_24>,IN <Unknown_4>,IN <Unknown_4> <Class_28>
+<Statement_111>,<Statement_112>
+<Statement_387>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_5>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_406>,TRIP FROM <Unknown_4> <Statement_406>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_406>,LEG OF <Individual_5> <Statement_406>,LEG OF <Unknown_4> <Statement_406>
+<Objecttype_7>,<NULL>,AIRLINE,AIRPORT,AIRPORT SERVICE,GROUND TRANSPORTATION,ARRIVAL,RENTAL CAR,KIND OF CAR,TYPE OF CAR,CAR TYPE,CITY,COUNTRY,DEPARTURE,FLIGHT,HOTEL,FLIGHT LEG,FIRST LEG,SECOND LEG,THIRD LEG,MEAL,AIRCRAFT,AIRPLANE,PLANE,RENTAL,FIRST RENTAL,SECOND RENTAL,STATE,STAY,FIRST STAY,SECOND STAY,STOPOVER,JOURNEY,TRAVEL,TRIP,<Class_11> <Unknown_7>
+<Statement_604>,<Individual_6> <Statement_623>,<Objecttype_8> <Statement_624>,<Unknown_4> <Statement_623>,<Unknown_43> <Statement_627>,AT <Statement_605>,FLIGHTS <Statement_606>,FROM <Statement_607>,GROUND <Statement_608>,HOTELS <Statement_609>,IN <Statement_605>,LEAVED <Statement_611>,LEGS <Statement_612>,OFFERRED <Statement_611>,OPERATED <Statement_611>,ROUND <Statement_615>,SERVED <Statement_611>,STOPS <Statement_609>,THE <Statement_618>,TO <Statement_619>,TRIPS <Statement_620>,USED <Statement_611>
+<Statement_221>,BY <Individual_3>,BY <Unknown_4>,<Statement_234>,BY <Individual_3> <Statement_234>,BY <Unknown_4> <Statement_234>
+<Statement_612>,OF <Individual_6>,OF <Unknown_4>,OF <Individual_6> <Statement_625>,OF <Unknown_4> <Statement_625>
+<Statement_482>,<Individual_5> <Statement_501>,<Objecttype_8> <Statement_502>,<Unknown_4> <Statement_501>,<Unknown_43> <Statement_505>,AT <Statement_483>,FLIGHTS <Statement_484>,FROM <Statement_485>,GROUND <Statement_486>,HOTELS <Statement_487>,IN <Statement_483>,LEAVED <Statement_489>,LEGS <Statement_490>,OFFERRED <Statement_489>,OPERATED <Statement_489>,ROUND <Statement_493>,SERVED <Statement_489>,STOPS <Statement_487>,THE <Statement_496>,TO <Statement_497>,TRIPS <Statement_498>,USED <Statement_489>
+<Statement_357>,<Unknown_46>,<Unknown_46> <Statement_356>
+<Statement_551>,<Statement_549>
+<Statement_57>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_63>,<Unknown_4> FROM <Unknown_4> <Statement_63>
+<Unknown_50>,<Unknown_55>,TO <Unknown_4> <Unknown_55>,FROM <Unknown_4> <Unknown_55>,WITH <Unknown_4> <Unknown_55>,TO <Unknown_4> FROM <Unknown_4> <Unknown_55>,TO <Unknown_4> WITH <Unknown_4> <Unknown_55>,FROM <Unknown_4> TO <Unknown_4> <Unknown_55>,WITH <Unknown_4> TO <Unknown_4> <Unknown_55>,FROM <Unknown_4> WITH <Unknown_4> <Unknown_55>,WITH <Unknown_4> FROM <Unknown_4> <Unknown_55>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Unknown_55>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Unknown_55>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Unknown_55>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Unknown_55>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Unknown_55>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Unknown_55>
+<Statement_552>,<Statement_553>
+<Statement_211>,<Unknown_46>,<Unknown_46> <Statement_210>
+<Statement_185>,<Statement_183>
+<Statement_523>,<Statement_525>,TO <Unknown_4> <Statement_525>,FROM <Unknown_4> <Statement_525>,TO <Unknown_4> FROM <Unknown_4> <Statement_525>,FROM <Unknown_4> TO <Unknown_4> <Statement_525>
+<Unknown_13>,<Objecttype_3>
+<Statement_264>,<Individual_4> <Statement_282>,<Objecttype_8> <Statement_283>,<Unknown_4> <Statement_282>,<Unknown_43> <Statement_286>,A <Statement_265>,AT <Statement_266>,FLIGHTS <Statement_267>,FROM <Statement_268>,HOTELS <Statement_269>,IN <Statement_266>,LEAVED <Statement_271>,OFFERRED <Statement_271>,OPERATED <Statement_271>,ROUND <Statement_274>,SERVED <Statement_271>,STOPS <Statement_269>,THE <Statement_277>,TO <Statement_278>,TRIPS <Statement_279>,USED <Statement_271>
+<Unknown_52>,TRIP FLIGHT <Unknown_55>,TRIP <Unknown_55>,TRIP FLIGHT FROM <Unknown_4> <Unknown_55>,TRIP FLIGHT TO <Unknown_4> <Unknown_55>,TRIP FROM <Unknown_4> <Unknown_55>,TRIP TO <Unknown_4> <Unknown_55>,TRIP FLIGHT FROM <Unknown_4> TO <Unknown_4> <Unknown_55>,TRIP FLIGHT TO <Unknown_4> FROM <Unknown_4> <Unknown_55>,TRIP FROM <Unknown_4> TO <Unknown_4> <Unknown_55>,TRIP TO <Unknown_4> FROM <Unknown_4> <Unknown_55>
+<Statement_129>,LEG <Individual_1>,LEG <Unknown_3>,LEG <Individual_1> <Statement_136>,LEG <Unknown_3> <Statement_136>
+<Statement_490>,OF <Individual_5>,OF <Unknown_4>,OF <Individual_5> <Statement_503>,OF <Unknown_4> <Statement_503>
+<Statement_87>,<Statement_88>
+<Unknown_5>,<Individual_1>,<Individual_3>,<Individual_6>
+<Objecttype_cat>,<Objecttype_1>,<Objecttype_2>,<Objecttype_3>,<Modality_4>,<Objecttype_5>,<Objecttype_6>,<Objecttype_7>,<Objecttype_8>,<Objecttype_9>
+<Statement_500>,<Statement_506>
+<Statement_203>,LEG <Individual_3>,LEG <Unknown_3>,LEG <Individual_3> <Statement_210>,LEG <Unknown_3> <Statement_210>
+<Individual_6>,ALL <Unknown_2>,<Unknown_2>,MOST <Unknown_2>,THESE <Unknown_2>,THOSE <Unknown_2>
+<Modifier_5>,<NULL>,WHO ARE <Unknown_2>,WHO ARE <Unknown_26>,WHO <Unknown_28> <Unknown_29> <Unknown_29> <Unknown_29> <Unknown_29> <Unknown_29> <Unknown_35> <Unknown_29>,WHO <Unknown_13> <Unknown_11> <Unknown_11> <Unknown_14> <Unknown_11> <Unknown_11> <Unknown_24> <Unknown_11>
+<Statement_18>,BE,SERVE,ARRIVE,LAND,DEPART,LEAVE,USE,STOP,OPERATE,FLY,GO,TRAVEL,HAVE,OFFER
+<Statement_603>,<Unknown_45> <Statement_597>
+<Unknown_54>,<Unknown_55>,TO <Unknown_4> <Unknown_55>,FROM <Unknown_4> <Unknown_55>,TO <Unknown_4> FROM <Unknown_4> <Unknown_55>,FROM <Unknown_4> TO <Unknown_4> <Unknown_55>
+<Statement_303>,<Statement_305>,TO <Unknown_4> <Statement_305>,FROM <Unknown_4> <Statement_305>,TO <Unknown_4> FROM <Unknown_4> <Statement_305>,FROM <Unknown_4> TO <Unknown_4> <Statement_305>
+<Statement_169>,<Statement_183>,TO <Unknown_4> <Statement_183>,FROM <Unknown_4> <Statement_183>,WITH <Unknown_4> <Statement_183>,TO <Unknown_4> FROM <Unknown_4> <Statement_183>,TO <Unknown_4> WITH <Unknown_4> <Statement_183>,FROM <Unknown_4> TO <Unknown_4> <Statement_183>,WITH <Unknown_4> TO <Unknown_4> <Statement_183>,FROM <Unknown_4> WITH <Unknown_4> <Statement_183>,WITH <Unknown_4> FROM <Unknown_4> <Statement_183>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_183>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_183>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_183>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_183>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_183>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_183>
+<Statement_229>,<Statement_231>,TO <Unknown_4> <Statement_231>,FROM <Unknown_4> <Statement_231>,TO <Unknown_4> FROM <Unknown_4> <Statement_231>,FROM <Unknown_4> TO <Unknown_4> <Statement_231>
+<Statement_587>,BY <Individual_6>,BY <Unknown_4>,<Statement_600>,BY <Individual_6> <Statement_600>,BY <Unknown_4> <Statement_600>
+<Statement_383>,<Unknown_59> <Statement_378>
+<Statement_269>,IN <Unknown_4> <Statement_281>
+<Statement_227>,LEG <Individual_3>,LEG <Unknown_3>,LEG <Individual_3> <Statement_234>,LEG <Unknown_3> <Statement_234>
+<Class_13>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4>,TO <Unknown_4> FROM <Unknown_4>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4>,TO <Unknown_4> WITH <Unknown_4>,TO <Unknown_4>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4>,FROM <Unknown_4> TO <Unknown_4>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4>,WITH <Unknown_4> TO <Unknown_4>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4>,FROM <Unknown_4> WITH <Unknown_4>,FROM <Unknown_4>,WITH <Unknown_4> FROM <Unknown_4>,WITH <Unknown_4>,<Class_18>,TO <Unknown_4> <Class_18>,FROM <Unknown_4> <Class_18>,WITH <Unknown_4> <Class_18>,TO <Unknown_4> FROM <Unknown_4> <Class_18>,TO <Unknown_4> WITH <Unknown_4> <Class_18>,FROM <Unknown_4> TO <Unknown_4> <Class_18>,WITH <Unknown_4> TO <Unknown_4> <Class_18>,FROM <Unknown_4> WITH <Unknown_4> <Class_18>,WITH <Unknown_4> FROM <Unknown_4> <Class_18>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Class_18>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Class_18>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Class_18>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Class_18>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Class_18>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Class_18>
+<Statement_289>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_4>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_308>,TRIP FROM <Unknown_4> <Statement_308>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_308>,LEG OF <Individual_4> <Statement_308>,LEG OF <Unknown_4> <Statement_308>
+<WhPron_2>,WHAT,WHICH <Unknown_1>,WHOM
+<Statement_399>,LEG <Individual_5>,LEG <Unknown_3>,LEG <Individual_5> <Statement_406>,LEG <Unknown_3> <Statement_406>
+<Statement_367>,BY <Individual_4>,BY <Unknown_4>,<Statement_381>,BY <Individual_4> <Statement_381>,BY <Unknown_4> <Statement_381>
+<Statement_340>,<Unknown_4>,<Individual_4>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_356>,<Individual_4> <Statement_356>,<Unknown_4> TO <Unknown_4> <Statement_356>
+<Objecttype_6>,FIRST CLASS,SECOND CLASS,AIRLINES,AIRPORTS,AIRPORT SERVICES,GROUND TRANSPORTATIONS,ARRIVALS,RENTAL CARS,KINDS OF CARS,TYPES OF CARS,CAR TYPES,CITIES,COUNTRIES,DEPARTURES,FLIGHTS,HOTELS,FLIGHT LEGS,FIRST LEGS,SECOND LEGS,THIRD LEGS,MEALS,AIRCRAFTS,AIRPLANES,PLANES,RENTALS,FIRST RENTALS,SECOND RENTALS,STATES,STAYS,FIRST STAYS,SECOND STAYS,STOPOVERS,JOURNEYS,TRAVELS,TRIPS,NONSTOP,ALGERIA,ARAB EMIRATES,THE ARAB EMIRATES,UNITED ARAB EMIRATES,THE UNITED ARAB EMIRATES,ARGENTINA,PUERTO RICO,ROMANIA,RUSSIA,RWANDA,SAUDI ARABIA,SLOVENIA,SOUTH AFRICA,SPAIN,SRI LANKA,SWEDEN,SWITZERLAND,TAIWAN,TANZANIA,THAILAND,TONGO,TRINIDAD,TUNISIA,TURKEY,UGANDA,UKRAINE,THE UKRAINE,VENEZUELA,YUGOSLOVIA,ZAMBIA,U S,THE U S,U S A,THE U S A,U S OF A,THE U S OF A,UNITED STATES,THE UNITED STATES,UNITED STATES OF AMERICA,THE UNITED STATES OF AMERICA,VIRGIN ISLANDS,THE VIRGIN ISLANDS,U S VIRGIN ISLANDS,THE U S VIRGIN ISLANDS
+<Statement_600>,<Statement_601>
+<Unknown_45>,<Modifier_5>
+<Individual_1>,I
+<Statement_119>,TRANSPORTATIONS IN <Unknown_4>,TRANSPORTATIONS IN <Unknown_4> <Statement_136>
+<Statement_391>,IN <Unknown_4> <Statement_403>
+<Statement_266>,<Unknown_4>,<Unknown_4> <Statement_284>
+<Statement_181>,<Statement_183>,TO <Unknown_4> <Statement_183>,FROM <Unknown_4> <Statement_183>,TO <Unknown_4> FROM <Unknown_4> <Statement_183>,FROM <Unknown_4> TO <Unknown_4> <Statement_183>
+<Class_22>,<Objecttype_8> <Class_29>,<Unknown_43> <Class_30>,FLIGHTS <Class_23>,HOTELS <Class_24>,ROUND <Class_25>,STOPS <Class_24>,TRIPS <Class_27>
+<Modifier_4>,<NULL>,WHICH IS A <Unknown_1>,WHICH IS <Unknown_26>,WHICH <Unknown_38> <Unknown_29> <Unknown_29> <Unknown_29> <Unknown_29> <Unknown_29> <Unknown_34> <Unknown_29>,WHICH <Unknown_9> <Unknown_11> <Unknown_11> <Unknown_10> <Unknown_11> <Unknown_11> <Unknown_22> <Unknown_11>
+<Statement_420>,TRIP FLIGHTS <Statement_427>,TRIPS <Statement_427>,TRIP FLIGHTS FROM <Unknown_4> <Statement_427>,TRIP FLIGHTS TO <Unknown_4> <Statement_427>,TRIPS FROM <Unknown_4> <Statement_427>,TRIPS TO <Unknown_4> <Statement_427>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_427>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_427>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_427>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_427>
+<Statement_105>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_111>,<Unknown_4> FROM <Unknown_4> <Statement_111>
+<Statement_346>,TRIP FLIGHTS <Statement_353>,TRIPS <Statement_353>,TRIP FLIGHTS FROM <Unknown_4> <Statement_353>,TRIP FLIGHTS TO <Unknown_4> <Statement_353>,TRIPS FROM <Unknown_4> <Statement_353>,TRIPS TO <Unknown_4> <Statement_353>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_353>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_353>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_353>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_353>
+<Statement_326>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_332>,<Unknown_4> FROM <Unknown_4> <Statement_332>
+<Utterance_Utt_cat>,<Utterance_1>
+<Statement_249>,TRIP FLIGHTS <Statement_256>,TRIPS <Statement_256>,TRIP FLIGHTS FROM <Unknown_4> <Statement_256>,TRIP FLIGHTS TO <Unknown_4> <Statement_256>,TRIPS FROM <Unknown_4> <Statement_256>,TRIPS TO <Unknown_4> <Statement_256>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_256>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_256>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_256>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_256>
+<Statement_451>,<Statement_457>
+<Statement_138>,<Unknown_59> <Statement_133>
+<Statement_503>,<Statement_504>
+<Statement_439>,IN <Unknown_4> <Statement_451>
+<Statement_22>,<Statement_36>,TO <Unknown_4> <Statement_36>,FROM <Unknown_4> <Statement_36>,WITH <Unknown_4> <Statement_36>,TO <Unknown_4> FROM <Unknown_4> <Statement_36>,TO <Unknown_4> WITH <Unknown_4> <Statement_36>,FROM <Unknown_4> TO <Unknown_4> <Statement_36>,WITH <Unknown_4> TO <Unknown_4> <Statement_36>,FROM <Unknown_4> WITH <Unknown_4> <Statement_36>,WITH <Unknown_4> FROM <Unknown_4> <Statement_36>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_36>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_36>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_36>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_36>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_36>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_36>
+<Unknown_10>,<Statement_8>
+<Statement_625>,<Statement_626>
+<Statement_547>,<Statement_549>,TO <Unknown_4> <Statement_549>,FROM <Unknown_4> <Statement_549>,TO <Unknown_4> FROM <Unknown_4> <Statement_549>,FROM <Unknown_4> TO <Unknown_4> <Statement_549>
+<Statement_200>,TRIP FLIGHTS <Statement_207>,TRIPS <Statement_207>,TRIP FLIGHTS FROM <Unknown_4> <Statement_207>,TRIP FLIGHTS TO <Unknown_4> <Statement_207>,TRIPS FROM <Unknown_4> <Statement_207>,TRIPS TO <Unknown_4> <Statement_207>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_207>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_207>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_207>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_207>
+<Statement_301>,LEG <Individual_4>,LEG <Unknown_3>,LEG <Individual_4> <Statement_308>,LEG <Unknown_3> <Statement_308>
+<Statement_42>,<Unknown_45> <Statement_36>
+<Statement_263>,<Individual_4>,IT
+<Statement_355>,<Statement_353>
+<Statement_529>,<Unknown_46>,<Unknown_46> <Statement_528>
+<Statement_142>,<Individual_3> <Statement_160>,<Objecttype_8> <Statement_161>,<Unknown_4> <Statement_160>,<Unknown_43> <Statement_164>,A <Statement_143>,AT <Statement_144>,FLIGHTS <Statement_145>,FROM <Statement_146>,HOTELS <Statement_147>,IN <Statement_144>,LEAVED <Statement_149>,OFFERRED <Statement_149>,OPERATED <Statement_149>,ROUND <Statement_152>,SERVED <Statement_149>,STOPS <Statement_147>,THE <Statement_155>,TO <Statement_156>,TRIPS <Statement_157>,USED <Statement_149>
+<Statement_325>,LEG <Individual_4>,LEG <Unknown_3>,LEG <Individual_4> <Statement_332>,LEG <Unknown_3> <Statement_332>
+<Imperative_Imp_cat>,<Imperative_1>
+<Statement_545>,LEG <Individual_6>,LEG <Unknown_3>,LEG <Individual_6> <Statement_552>,LEG <Unknown_3> <Statement_552>
+<Statement_577>,<Unknown_46>,<Unknown_46> <Statement_576>
+<Statement_44>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_2>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_63>,TRIP FROM <Unknown_4> <Statement_63>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_63>,LEG OF <Individual_2> <Statement_63>,LEG OF <Unknown_4> <Statement_63>
+<Statement_585>,IN <Unknown_4> <Statement_597>
+<Statement_194>,<Unknown_4>,<Individual_3>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_210>,<Individual_3> <Statement_210>,<Unknown_4> TO <Unknown_4> <Statement_210>
+<Statement_403>,<Statement_409>
+<Statement_60>,<Statement_66>
+<Statement_139>,<Unknown_45> <Statement_133>
+<Unknown_23>,<Statement_214>,<Statement_336>,<Statement_458>,<Statement_580>,<Statement_91>
+<Statement_cat>,<Statement_1>,<Statement_10>,<Statement_11>,<Statement_115>,<Statement_12>,<Statement_13>,<Statement_14>,<Statement_140>,<Statement_141>,<Statement_142>,<Statement_15>,<Statement_16>,<Statement_166>,<Statement_17>,<Statement_18>,<Statement_19>,<Statement_190>,<Modality_4>,<Statement_214>,<Statement_238>,<Statement_263>,<Statement_264>,<Statement_288>,<Objecttype_9>,<Statement_312>,<Statement_336>,<Statement_360>,<Statement_385>,<Statement_386>,<Statement_410>,<Statement_43>,<Statement_434>,<Statement_458>,<Statement_482>,<Statement_5>,<Statement_507>,<Statement_508>,<Statement_532>,<Statement_556>,<Statement_580>,<Statement_6>,<Statement_604>,<Statement_67>,<Statement_7>,<Statement_8>,<Objecttype_3>,<Statement_91>
+<Statement_606>,<Statement_622>,TO <Unknown_4> <Statement_622>,FROM <Unknown_4> <Statement_622>,WITH <Unknown_4> <Statement_622>,TO <Unknown_4> FROM <Unknown_4> <Statement_622>,TO <Unknown_4> WITH <Unknown_4> <Statement_622>,FROM <Unknown_4> TO <Unknown_4> <Statement_622>,WITH <Unknown_4> TO <Unknown_4> <Statement_622>,FROM <Unknown_4> WITH <Unknown_4> <Statement_622>,WITH <Unknown_4> FROM <Unknown_4> <Statement_622>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_622>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_622>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_622>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_622>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_622>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_622>
+<Statement_156>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_162>,<Unknown_4> FROM <Unknown_4> <Statement_162>
+<Statement_115>,<Individual_2> <Statement_134>,<Objecttype_8> <Statement_135>,<Unknown_4> <Statement_134>,<Unknown_43> <Statement_138>,AT <Statement_116>,FLIGHTS <Statement_117>,FROM <Statement_118>,GROUND <Statement_119>,HOTELS <Statement_120>,IN <Statement_116>,LEAVED <Statement_122>,LEGS <Statement_123>,OFFERRED <Statement_122>,OPERATED <Statement_122>,ROUND <Statement_126>,SERVED <Statement_122>,STOPS <Statement_120>,THE <Statement_129>,TO <Statement_130>,TRIPS <Statement_131>,USED <Statement_122>
+<Statement_518>,TRIP FLIGHTS <Statement_525>,TRIPS <Statement_525>,TRIP FLIGHTS FROM <Unknown_4> <Statement_525>,TRIP FLIGHTS TO <Unknown_4> <Statement_525>,TRIPS FROM <Unknown_4> <Statement_525>,TRIPS TO <Unknown_4> <Statement_525>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_525>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_525>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_525>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_525>
+<Statement_261>,<Unknown_59> <Statement_256>
+<Unknown_4>,<Individual_2>,<Individual_3>,<Individual_4>,<Individual_5>,<Individual_6>
+<Statement_302>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_308>,<Unknown_4> FROM <Unknown_4> <Statement_308>
+<Statement_13>,ARE,DO
+<Statement_336>,<Individual_4> <Statement_354>,<Objecttype_8> <Statement_355>,<Unknown_4> <Statement_354>,<Unknown_43> <Statement_358>,A <Statement_337>,AT <Statement_338>,FLIGHTS <Statement_339>,FROM <Statement_340>,HOTELS <Statement_341>,IN <Statement_338>,LEAVED <Statement_343>,OFFERRED <Statement_343>,OPERATED <Statement_343>,ROUND <Statement_346>,SERVED <Statement_343>,STOPS <Statement_341>,THE <Statement_349>,TO <Statement_350>,TRIPS <Statement_351>,USED <Statement_343>
+<Class_25>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4>,TRIP FLIGHTS FROM <Unknown_4>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4>,TRIP FLIGHTS TO <Unknown_4>,TRIP FLIGHTS,TRIPS FROM <Unknown_4> TO <Unknown_4>,TRIPS FROM <Unknown_4>,TRIPS TO <Unknown_4> FROM <Unknown_4>,TRIPS TO <Unknown_4>,TRIPS,TRIP FLIGHTS <Class_28>,TRIPS <Class_28>,TRIP FLIGHTS FROM <Unknown_4> <Class_28>,TRIP FLIGHTS TO <Unknown_4> <Class_28>,TRIPS FROM <Unknown_4> <Class_28>,TRIPS TO <Unknown_4> <Class_28>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Class_28>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Class_28>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Class_28>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Class_28>
+<Statement_473>,<Statement_475>,TO <Unknown_4> <Statement_475>,FROM <Unknown_4> <Statement_475>,TO <Unknown_4> FROM <Unknown_4> <Statement_475>,FROM <Unknown_4> TO <Unknown_4> <Statement_475>
+<Modality_cat>,<Modality_1>,<Modality_2>,<Modality_3>,<Modality_4>,<Modality_5>,<Modality_6>
+<Objecttype_2>,FIRST CLASS,SECOND CLASS,NONSTOP,TOMORROW,YESTERDAY,TODAY,TO DAY,DAY AFTER TOMORROW,CONNECTION,CONNECTIONS,DIRECT FLIGHT,CONNECTING FLIGHT,CONNECT,NONSTOP,NO STOP,NON STOP,TYPE OF AIRPLANE,KIND OF AIRPLANE,TYPE OF PLANE,KIND OF PLANE,GO TO CARS,HEY FRANK GO TO CARS,BUSINESS,BUSINESS CLASS,BUSINESS CLASS NIGHT SERVICE,BUSINESS CLASS PREMIUM,COACH,ECONOMY,COACH ECONOMY CLASS,COACH ECONOMY CLASS DISCOUNTED,COACH ECONOMY CLASS DISCOUNTED NIGHT SERVICE,COACH ECONOMY CLASS NIGHT SERVICE,FIRST CLASS,FIRST CLASS NIGHT SERVICE,FIRST CLASS PREMIUM,SHUTTLE SERVICE,STANDARD CLASS,THRIFT ECONOMY CLASS,THRIFT ECONOMY CLASS DISCOUNTED,THRIFT ECONOMY CLASS DISCOUNTED NIGHT SERVICE,SUNDAY,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY,SUNDAYS,MONDAYS,TUESDAYS,WEDNESDAYS,THURSDAYS,FRIDAYS,SATURDAYS
+<Statement_559>,<Statement_573>,TO <Unknown_4> <Statement_573>,FROM <Unknown_4> <Statement_573>,WITH <Unknown_4> <Statement_573>,TO <Unknown_4> FROM <Unknown_4> <Statement_573>,TO <Unknown_4> WITH <Unknown_4> <Statement_573>,FROM <Unknown_4> TO <Unknown_4> <Statement_573>,WITH <Unknown_4> TO <Unknown_4> <Statement_573>,FROM <Unknown_4> WITH <Unknown_4> <Statement_573>,WITH <Unknown_4> FROM <Unknown_4> <Statement_573>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_573>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_573>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_573>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_573>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_573>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_573>
+<Statement_615>,TRIP FLIGHTS <Statement_622>,TRIPS <Statement_622>,TRIP FLIGHTS FROM <Unknown_4> <Statement_622>,TRIP FLIGHTS TO <Unknown_4> <Statement_622>,TRIPS FROM <Unknown_4> <Statement_622>,TRIPS TO <Unknown_4> <Statement_622>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_622>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_622>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_622>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_622>
+<Statement_343>,BY <Individual_4>,BY <Unknown_4>,<Statement_356>,BY <Individual_4> <Statement_356>,BY <Unknown_4> <Statement_356>
+<Statement_436>,<Unknown_4>,<Unknown_4> <Statement_454>
+<Statement_20>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_2>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_39>,TRIP FROM <Unknown_4> <Statement_39>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_39>,LEG OF <Individual_2> <Statement_39>,LEG OF <Unknown_4> <Statement_39>
+<Unknown_61>,IN <Unknown_4> <Unknown_65>
+<Statement_295>,BY <Individual_4>,BY <Unknown_4>,<Statement_308>,BY <Individual_4> <Statement_308>,BY <Unknown_4> <Statement_308>
+<Statement_507>,<Individual_6>
+<Utterance_1>,DO YOU HAVE <Unknown_2>,DO YOU HAVE <Unknown_4>,LIST <Unknown_4>,GIVE ME <Unknown_4>,SHOW ME <Unknown_4>,<Question_1>,<Imperative_1>,<Sentence_1>
+<Statement_306>,<NULL>,<Statement_308>
+<Statement_228>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_234>,<Unknown_4> FROM <Unknown_4> <Statement_234>
+<Statement_475>,<Statement_481>
+<Statement_46>,<Statement_60>,TO <Unknown_4> <Statement_60>,FROM <Unknown_4> <Statement_60>,WITH <Unknown_4> <Statement_60>,TO <Unknown_4> FROM <Unknown_4> <Statement_60>,TO <Unknown_4> WITH <Unknown_4> <Statement_60>,FROM <Unknown_4> TO <Unknown_4> <Statement_60>,WITH <Unknown_4> TO <Unknown_4> <Statement_60>,FROM <Unknown_4> WITH <Unknown_4> <Statement_60>,WITH <Unknown_4> FROM <Unknown_4> <Statement_60>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_60>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_60>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_60>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_60>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_60>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_60>
+<Unknown_68>,<Unknown_45> <Unknown_65>
+<Statement_558>,<Unknown_4>,<Unknown_4> <Statement_576>
+<Unknown_8>,<Objecttype_8>
+<Unknown_24>,<Statement_115>,<Statement_238>,<Statement_360>,<Statement_482>,<Statement_604>
+<Statement_389>,<Statement_403>,TO <Unknown_4> <Statement_403>,FROM <Unknown_4> <Statement_403>,WITH <Unknown_4> <Statement_403>,TO <Unknown_4> FROM <Unknown_4> <Statement_403>,TO <Unknown_4> WITH <Unknown_4> <Statement_403>,FROM <Unknown_4> TO <Unknown_4> <Statement_403>,WITH <Unknown_4> TO <Unknown_4> <Statement_403>,FROM <Unknown_4> WITH <Unknown_4> <Statement_403>,WITH <Unknown_4> FROM <Unknown_4> <Statement_403>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_403>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_403>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_403>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_403>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_403>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_403>
+<Statement_284>,<Statement_285>
+<Statement_224>,TRIP FLIGHTS <Statement_231>,TRIPS <Statement_231>,TRIP FLIGHTS FROM <Unknown_4> <Statement_231>,TRIP FLIGHTS TO <Unknown_4> <Statement_231>,TRIPS FROM <Unknown_4> <Statement_231>,TRIPS TO <Unknown_4> <Statement_231>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_231>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_231>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_231>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_231>
+<Class_20>,<Unknown_49>,<Unknown_49> <Class_18>
+<Statement_21>,<Unknown_4>,<Unknown_4> <Statement_39>
+<Statement_381>,<Statement_382>
+<Sentence_8>,<NULL>,<Sentence_11>
+<Statement_501>,<NULL>,<Statement_503>
+<Statement_260>,<Unknown_46>,<Unknown_46> <Statement_259>
+<Statement_532>,<Individual_6> <Statement_550>,<Objecttype_8> <Statement_551>,<Unknown_4> <Statement_550>,<Unknown_43> <Statement_554>,A <Statement_533>,AT <Statement_534>,FLIGHTS <Statement_535>,FROM <Statement_536>,HOTELS <Statement_537>,IN <Statement_534>,LEAVED <Statement_539>,OFFERRED <Statement_539>,OPERATED <Statement_539>,ROUND <Statement_542>,SERVED <Statement_539>,STOPS <Statement_537>,THE <Statement_545>,TO <Statement_546>,TRIPS <Statement_547>,USED <Statement_539>
+<Statement_114>,<Unknown_45> <Statement_108>
+<Statement_133>,<Statement_139>
+<Individual_2>,ME,LEG,SEGMENT,MEAL,MEALS,DINNER,LUNCH,BREAKFAST,SNACK
+<Statement_620>,TO <Unknown_4>,FROM <Unknown_4>,<Statement_622>,TO <Unknown_4> <Statement_625>,FROM <Unknown_4> <Statement_625>,TO <Unknown_4> <Statement_622>,FROM <Unknown_4> <Statement_622>,TO <Unknown_4> FROM <Unknown_4> <Statement_622>,FROM <Unknown_4> TO <Unknown_4> <Statement_622>
+<Statement_429>,<Statement_427>
+<Statement_338>,<Unknown_4>,<Unknown_4> <Statement_356>
+<Statement_33>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_39>,<Unknown_4> FROM <Unknown_4> <Statement_39>
+<Individual_4>,EVERY <Unknown_49>,MY <Unknown_7>,YOUR <Unknown_7>,A <Unknown_49>,THAT <Unknown_49>,THE <Unknown_49>,THIS <Unknown_49>
+<Statement_575>,<Statement_573>
+<Statement_317>,IN <Unknown_4> <Statement_329>
+<Statement_611>,BY <Individual_6>,BY <Unknown_4>,<Statement_625>,BY <Individual_6> <Statement_625>,BY <Unknown_4> <Statement_625>
+<Statement_140>,SERVES,LEAVES,USES,OPERATES,OFFERS,MORE,MORE THAN,LESS,LESS THAN,EXPENSIVE,MOST EXPENSIVE,LEAST EXPENSIVE,CHEAP,CHEAPER,CHEAPEST,UNDER
+<Statement_101>,TRIP FLIGHTS <Statement_108>,TRIPS <Statement_108>,TRIP FLIGHTS FROM <Unknown_4> <Statement_108>,TRIP FLIGHTS TO <Unknown_4> <Statement_108>,TRIPS FROM <Unknown_4> <Statement_108>,TRIPS TO <Unknown_4> <Statement_108>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_108>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_108>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_108>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_108>
+<Statement_407>,<Unknown_46>,<Unknown_46> <Statement_406>
+<Clause_2>,DO <Unknown_5> NEED <Unknown_4>,DOES <Unknown_6> NEED <Unknown_4>,DO <Unknown_5> WANT <Unknown_4>,DOES <Unknown_6> WANT <Unknown_4>,DO <Individual_1> WANT TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_20> <Unknown_11>,DO <Individual_3> WANT TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_21> <Unknown_11>,DOES <Individual_4> WANT TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_22> <Unknown_11>,DOES <Individual_5> WANT TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_23> <Unknown_11>,DO <Individual_6> WANT TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_24> <Unknown_11>
+<Statement_626>,<Unknown_46>,<Unknown_46> <Statement_625>
+<Statement_161>,<Statement_159>
+<Statement_41>,<Unknown_59> <Statement_36>
+<Statement_205>,<Statement_207>,TO <Unknown_4> <Statement_207>,FROM <Unknown_4> <Statement_207>,TO <Unknown_4> FROM <Unknown_4> <Statement_207>,FROM <Unknown_4> TO <Unknown_4> <Statement_207>
+<Statement_557>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_6>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_576>,TRIP FROM <Unknown_4> <Statement_576>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_576>,LEG OF <Individual_6> <Statement_576>,LEG OF <Unknown_4> <Statement_576>
+<Statement_319>,BY <Individual_4>,BY <Unknown_4>,<Statement_332>,BY <Individual_4> <Statement_332>,BY <Unknown_4> <Statement_332>
+<Statement_386>,<Individual_5> <Statement_404>,<Objecttype_8> <Statement_405>,<Unknown_4> <Statement_404>,<Unknown_43> <Statement_408>,A <Statement_387>,AT <Statement_388>,FLIGHTS <Statement_389>,FROM <Statement_390>,HOTELS <Statement_391>,IN <Statement_388>,LEAVED <Statement_393>,OFFERRED <Statement_393>,OPERATED <Statement_393>,ROUND <Statement_396>,SERVED <Statement_393>,STOPS <Statement_391>,THE <Statement_399>,TO <Statement_400>,TRIPS <Statement_401>,USED <Statement_393>
+<Statement_332>,<Statement_333>
+<Statement_563>,BY <Individual_6>,BY <Unknown_4>,<Statement_576>,BY <Individual_6> <Statement_576>,BY <Unknown_4> <Statement_576>
+<Statement_457>,<Unknown_45> <Statement_451>
+<Class_19>,<NULL>,<Class_18>
+<Statement_498>,TO <Unknown_4>,FROM <Unknown_4>,<Statement_500>,TO <Unknown_4> <Statement_503>,FROM <Unknown_4> <Statement_503>,TO <Unknown_4> <Statement_500>,FROM <Unknown_4> <Statement_500>,TO <Unknown_4> FROM <Unknown_4> <Statement_500>,FROM <Unknown_4> TO <Unknown_4> <Statement_500>
+<Statement_365>,IN <Unknown_4> <Statement_378>
+<Statement_459>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_5>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_478>,TRIP FROM <Unknown_4> <Statement_478>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_478>,LEG OF <Individual_5> <Statement_478>,LEG OF <Unknown_4> <Statement_478>
+<Statement_243>,IN <Unknown_4> <Statement_256>
+<Statement_314>,<Unknown_4>,<Unknown_4> <Statement_332>
+<Statement_110>,<Statement_108>
+<Statement_566>,TRIP FLIGHTS <Statement_573>,TRIPS <Statement_573>,TRIP FLIGHTS FROM <Unknown_4> <Statement_573>,TRIP FLIGHTS TO <Unknown_4> <Statement_573>,TRIPS FROM <Unknown_4> <Statement_573>,TRIPS TO <Unknown_4> <Statement_573>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_573>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_573>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_573>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_573>
+<Unknown_67>,<Unknown_59> <Unknown_65>
+<Statement_408>,<Unknown_59> <Statement_403>
+<Statement_461>,<Statement_475>,TO <Unknown_4> <Statement_475>,FROM <Unknown_4> <Statement_475>,WITH <Unknown_4> <Statement_475>,TO <Unknown_4> FROM <Unknown_4> <Statement_475>,TO <Unknown_4> WITH <Unknown_4> <Statement_475>,FROM <Unknown_4> TO <Unknown_4> <Statement_475>,WITH <Unknown_4> TO <Unknown_4> <Statement_475>,FROM <Unknown_4> WITH <Unknown_4> <Statement_475>,WITH <Unknown_4> FROM <Unknown_4> <Statement_475>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_475>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_475>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_475>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_475>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_475>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_475>
+<Clause_1>,<Unknown_5> NEED <Unknown_4>,<Unknown_6> NEEDS <Unknown_4>,<Unknown_5> WANT <Unknown_4>,<Unknown_6> WANTS <Unknown_4>,<Individual_1> WANT TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_20> <Unknown_11>,<Individual_3> WANT TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_21> <Unknown_11>,<Individual_4> WANTS TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_22> <Unknown_11>,<Individual_5> WANTS TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_23> <Unknown_11>,<Individual_6> WANT TO <Unknown_11> <Unknown_18> <Unknown_11> <Unknown_24> <Unknown_11>
+<Statement_62>,<Statement_60>
+<Statement_455>,<Unknown_46>,<Unknown_46> <Statement_454>
+<Statement_396>,TRIP FLIGHTS <Statement_403>,TRIPS <Statement_403>,TRIP FLIGHTS FROM <Unknown_4> <Statement_403>,TRIP FLIGHTS TO <Unknown_4> <Statement_403>,TRIPS FROM <Unknown_4> <Statement_403>,TRIPS TO <Unknown_4> <Statement_403>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_403>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_403>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_403>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_403>
+<Statement_171>,IN <Unknown_4> <Statement_183>
+<Statement_66>,<Unknown_45> <Statement_60>
+<Statement_546>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_552>,<Unknown_4> FROM <Unknown_4> <Statement_552>
+<Statement_40>,<Unknown_46>,<Unknown_46> <Statement_39>
+<Statement_622>,<Statement_628>
+<Class_9>,<Objecttype_5>,A <Unknown_42> <Unknown_49>,A <Unknown_49> <Unknown_44>,A ROUND TRIP FLIGHT FROM <Unknown_4> TO <Unknown_4>,A ROUND TRIP FLIGHT FROM <Unknown_4>,A ROUND TRIP FLIGHT TO <Unknown_4> FROM <Unknown_4>,A ROUND TRIP FLIGHT TO <Unknown_4>,A ROUND TRIP FLIGHT,A FLIGHT TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4>,A FLIGHT TO <Unknown_4> FROM <Unknown_4>,A FLIGHT TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4>,A FLIGHT TO <Unknown_4> WITH <Unknown_4>,A FLIGHT TO <Unknown_4>,A FLIGHT FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4>,A FLIGHT FROM <Unknown_4> TO <Unknown_4>,A FLIGHT WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4>,A FLIGHT WITH <Unknown_4> TO <Unknown_4>,A FLIGHT FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4>,A FLIGHT WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4>,A FLIGHT FROM <Unknown_4> WITH <Unknown_4>,A FLIGHT FROM <Unknown_4>,A FLIGHT WITH <Unknown_4> FROM <Unknown_4>,A FLIGHT WITH <Unknown_4>,A FLIGHT,A HOTEL IN <Unknown_4>,A STOP IN <Unknown_4>,A ROUND TRIP FROM <Unknown_4> TO <Unknown_4>,A ROUND TRIP FROM <Unknown_4>,A ROUND TRIP TO <Unknown_4> FROM <Unknown_4>,A ROUND TRIP TO <Unknown_4>,A ROUND TRIP,A TRIP TO <Unknown_4> FROM <Unknown_4>,A TRIP TO <Unknown_4>,A TRIP FROM <Unknown_4> TO <Unknown_4>,A TRIP FROM <Unknown_4>,A TRIP
+<Statement_281>,<Statement_287>
+<Statement_624>,<Statement_622>
+<WhAdv_1>,HOW,WHEN,WHERE,WHY
+<Statement_213>,<Unknown_45> <Statement_207>
+<Statement_380>,<Statement_378>
+<Statement_356>,<Statement_357>
+<Statement_353>,<Statement_359>
+<Statement_208>,<NULL>,<Statement_210>
+<Statement_424>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_430>,<Unknown_4> FROM <Unknown_4> <Statement_430>
+<Statement_468>,TRIP FLIGHTS <Statement_475>,TRIPS <Statement_475>,TRIP FLIGHTS FROM <Unknown_4> <Statement_475>,TRIP FLIGHTS TO <Unknown_4> <Statement_475>,TRIPS FROM <Unknown_4> <Statement_475>,TRIPS TO <Unknown_4> <Statement_475>,TRIP FLIGHTS FROM <Unknown_4> TO <Unknown_4> <Statement_475>,TRIP FLIGHTS TO <Unknown_4> FROM <Unknown_4> <Statement_475>,TRIPS FROM <Unknown_4> TO <Unknown_4> <Statement_475>,TRIPS TO <Unknown_4> FROM <Unknown_4> <Statement_475>
+<Statement_146>,<Unknown_4>,<Individual_3>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_162>,<Individual_3> <Statement_162>,<Unknown_4> TO <Unknown_4> <Statement_162>
+<Statement_109>,<NULL>,<Statement_111>
+<Statement_86>,<Statement_84>
+<Statement_209>,<Statement_207>
+<Statement_136>,<Statement_137>
+<Statement_438>,<Unknown_4>,<Individual_5>,<Unknown_4> TO <Unknown_4>,<Unknown_4> <Statement_454>,<Individual_5> <Statement_454>,<Unknown_4> TO <Unknown_4> <Statement_454>
+<Statement_168>,<Unknown_4>,<Unknown_4> <Statement_186>
+<Statement_483>,<Unknown_4>,<Unknown_4> <Statement_503>
+<Statement_180>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_186>,<Unknown_4> FROM <Unknown_4> <Statement_186>
+<Statement_350>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_356>,<Unknown_4> FROM <Unknown_4> <Statement_356>
+<Statement_327>,<Statement_329>,TO <Unknown_4> <Statement_329>,FROM <Unknown_4> <Statement_329>,TO <Unknown_4> FROM <Unknown_4> <Statement_329>,FROM <Unknown_4> TO <Unknown_4> <Statement_329>
+<Statement_184>,<NULL>,<Statement_186>
+<Unknown_42>,<Modifier_2>,<Modality_4>
+<Statement_401>,<Statement_403>,TO <Unknown_4> <Statement_403>,FROM <Unknown_4> <Statement_403>,TO <Unknown_4> FROM <Unknown_4> <Statement_403>,FROM <Unknown_4> TO <Unknown_4> <Statement_403>
+<Statement_232>,<NULL>,<Statement_234>
+<Statement_315>,<Statement_329>,TO <Unknown_4> <Statement_329>,FROM <Unknown_4> <Statement_329>,WITH <Unknown_4> <Statement_329>,TO <Unknown_4> FROM <Unknown_4> <Statement_329>,TO <Unknown_4> WITH <Unknown_4> <Statement_329>,FROM <Unknown_4> TO <Unknown_4> <Statement_329>,WITH <Unknown_4> TO <Unknown_4> <Statement_329>,FROM <Unknown_4> WITH <Unknown_4> <Statement_329>,WITH <Unknown_4> FROM <Unknown_4> <Statement_329>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4> <Statement_329>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4> <Statement_329>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4> <Statement_329>,WITH <Unknown_4> TO <Unknown_4> FROM <Unknown_4> <Statement_329>,FROM <Unknown_4> WITH <Unknown_4> TO <Unknown_4> <Statement_329>,WITH <Unknown_4> FROM <Unknown_4> TO <Unknown_4> <Statement_329>
+<Statement_570>,<Unknown_4> FROM <Unknown_4>,<Unknown_4>,<Unknown_4> <Statement_576>,<Unknown_4> FROM <Unknown_4> <Statement_576>
+<Statement_550>,<NULL>,<Statement_552>
+<Statement_43>,<Individual_2> <Statement_61>,<Objecttype_8> <Statement_62>,<Unknown_4> <Statement_61>,<Unknown_43> <Statement_65>,A <Statement_44>,AT <Statement_45>,FLIGHTS <Statement_46>,FROM <Statement_47>,HOTELS <Statement_48>,IN <Statement_45>,LEAVED <Statement_50>,OFFERRED <Statement_50>,OPERATED <Statement_50>,ROUND <Statement_53>,SERVED <Statement_50>,STOPS <Statement_48>,THE <Statement_56>,TO <Statement_57>,TRIPS <Statement_58>,USED <Statement_50>
+<Statement_12>,AM,DO
+<Statement_489>,BY <Individual_5>,BY <Unknown_4>,<Statement_503>,BY <Individual_5> <Statement_503>,BY <Unknown_4> <Statement_503>
+<Statement_393>,BY <Individual_5>,BY <Unknown_4>,<Statement_406>,BY <Individual_5> <Statement_406>,BY <Unknown_4> <Statement_406>
+<Statement_85>,<NULL>,<Statement_87>
+<Statement_56>,LEG <Individual_1>,LEG <Unknown_3>,LEG <Individual_1> <Statement_63>,LEG <Unknown_3> <Statement_63>
+<Statement_359>,<Unknown_45> <Statement_353>
+<Statement_167>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_3>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_186>,TRIP FROM <Unknown_4> <Statement_186>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_186>,LEG OF <Individual_3> <Statement_186>,LEG OF <Unknown_4> <Statement_186>
+<Unknown_34>,<Class_9>
+<Statement_411>,TRIP TO <Unknown_4>,TRIP FROM <Unknown_4>,GROUND TRANSPORTATION IN <Unknown_4>,LEG OF <Individual_5>,LEG OF <Unknown_4>,TRIP TO <Unknown_4> <Statement_430>,TRIP FROM <Unknown_4> <Statement_430>,GROUND TRANSPORTATION IN <Unknown_4> <Statement_430>,LEG OF <Individual_5> <Statement_430>,LEG OF <Unknown_4> <Statement_430>
+<Sentence_S_cat>,<Sentence_1>
+<Objecttype_3>,ARE,DEPART,DEPARTURE,DEPARTING,LEAVE,LEAVING,ARRIVING,ARRIVAL,ARRIVE,AIRLINE,AIRLINES,ACCOR RESERVATION SERVICES,ADAMS MARK,AIRCO SERVICES,ALL SUITES,ALLEGRO RESORT,AMERICA OFF ROAD,AMERISUITES,A N A,ANASAZI ACCESS,ARCANTIS,ARCOTEL,ASTON,ASTRA WORLDWIDE,ASTRON,ATEL,B AND V ASSOCIATES,BACHELOR QUARTERS,BARTELL,BAYMONT INN,BAYMONT SUITES,BED AND BREAKFAST DIRECT,BEST INN,BEST WESTERN,BEST WESTERN INTERNATIONAL,BILTMORE,B T H,CAMBERLEY,CAMELOT INTERNATIONAL LIMITED,CAMINO REAL,CANADIAN PACIFIC,CARIBBEAN,CARLYLE,CAVANAUGHS,CEASAR PARK,CLARION,CLARION SUITES,CLASSIC INTERNATIONAL,CLUBHOUSE INN,C M NET,COAST WESTCOAST,COLONY RESORT,COMFORT INN,CONCORDE,WYNDHAM,A CORUNA,AALESUND,AALBORG,ABERDEEN,ABIDJAN,ABU DHABI,ACAPULCO,ACCRA,ADANA,ADDIS ABABA,ADELAIDE,AGADIR,AJACCIO,AKRON,AL HOCEIMA,ALBANY,ALBUQUERQUE,ALEXANDRIA,ALGIERS,ALICANTE,ALLENTOWN,ALMERIA,ALTA,AMARILLO,AMMAN,AMSTERDAM,ANCHORAGE,ANGELHOLM,ANGLET,ANGOULEME,ANKARA,ANTALYA,ANTANANARIVO,ANTWERP,ASMARA,ASTURIAS,ASWAN,ATHENS,ATLANTA,ATLANTIC CITY,EAST MIDLANDS,EDINBURGH,EDMONTON,EGELSBACH,EILAT,EINDHOVEN,EKATERINBURG,EL PASO,WROCLAW,XIAMEN,YOGYAKARTA,YUMA,ZAGREB,ZANZIBAR,ZARAGOZA,ZURICH,NEXT,FOLLOWING,PREVIOUS,AFTER,BEFORE,THEN,LATER,EARLIER,FOR,FROM,AFTER,BEFORE,AROUND,BETWEEN,LATE,LATER,LATEST,EARLY,EARLIER,EARLIEST,MID
+<Statement_333>,<Unknown_46>,<Unknown_46> <Statement_332>
+<WhPron_1>,WHAT,WHICH <Unknown_1>,WHO

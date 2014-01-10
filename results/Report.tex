@@ -1,0 +1,589 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{tabularx,ragged2e,booktabs,caption}
+\begin{document}
+\scriptsize
+\section{Automatic Grammar Fusion}
+\subsection{Evaluations}
+\begin{center}
+\captionof{table}{Overall Grammar Evaluation} \label{tab:title} 
+\begin{tabular}{|c||c|c|c|}
+\hline
+Grammar&Precision&Recall&FMeasure\\
+\hline
+\hline
+Bottom Up&0.309&0.406&0.351 \\
+\hline
+Top Down&0.202&0.152&0.173 \\
+\hline
+Simple Union (Base)&0.247&0.414&0.309 \\
+\hline
+Simple Union (Concept map / TD-to-BU)&0.247&0.414&0.309 \\
+\hline
+Simple Union (Concept map / BU-to-TD)&0.240&0.418&0.305 \\
+\hline
+Augmented BU (Concept map / TD-to-BU)&0.299&0.406&0.344 \\
+\hline
+Augmented BU (Concept map / BU-to-TD)&0.388&0.363&0.375 \\
+\hline
+Augmented TD (Concept map / TD-to-BU)&0.201&0.119&0.149 \\
+\hline
+Augmented TD (Concept map / BU-to-TD)&0.199&0.146&0.168 \\
+\hline
+Augmented BU (Rule map / TD-to-BU)&0.238&0.356&0.285 \\
+\hline
+Augmented TD (Rule map / BU-to-TD)&0.229&0.258&0.242 \\
+\hline\end{tabular}
+\end{center}
+
+\subsubsection{Evaluation of Mappings}
+The evaluation of the mappings was implemented under the following concept:\\\\
+The distance between the mapping scores of the mapped rule (best score) and the worst mapped rule (worst score) was calculated to provide the score margin. The distance between the mapping scores of the mapped rule (best score) and the golden rule was also calculated(the golden mapping score should ideally be equal to the best score). Then, the accuracy of the mapping was computed as \textbf{the ratio of the mapping score distance from the golden rule score and from the worst mapped rule mapping score}. We also calculated the absolute matches to the groundtruth.\\\\
+\underline{E.g. for the concept $<$STATE$>$:}\\
+Worst mapping score: 0.971\\
+Best mapping score($<$OBJECTTYPE\_6$>$): 0.838 \\
+Golden mapping score($<$INDIVIDUAL\_5$>$): 0.850\\
+\\
+We measure the distance between the best and worst score:\\
+Mapping margin: Worst mapping score - Best mapping score = \textbf{0.133}\\\\
+and between the best and golden score:\\
+Distance from gold: Golden mapping score - Best mapping score = \textbf{0.012}\\\\
+We calculate the relative distance from the golden rule as:\\
+Relative distance from gold = (Distance from gold)/(Mapping margin) = \textbf{0.09}\\\\
+which is then normalised to represent accuracy:\\
+Accuracy = (1 - (Relative distance from gold))*100 = \textbf{91\%}\\\\
+\begin{center}
+\captionof{table}{Evaluation of Mappings} \label{tab:title} 
+\begin{tabular}{|c||c|c|c|}
+\hline
+Mapping&Accuracy (\%)&Correct (\%)\\
+\hline
+\hline
+Concept map / TD-to-BU&88.25&0 \\
+\hline
+Concept map / BU-to-TD&71.77&0 \\
+\hline
+Rule map / TD-to-BU&56.75&14.29 \\
+\hline
+Rule map / BU-to-TD&50.22&0 \\
+\hline
+\end{tabular}
+\end{center}Accuracy measures how "close" was the mapping to the golden map rule, and Correct measures the percentage of the rules that were correctly mapped, according to the golden mapping rules.
+\pagebreak
+\subsection{Step 1: Input Grammars}
+This step was made in order to create the base evaluations of the two grammars for comparison with the fusion.
+
+\captionof{table}{Bottom-Up Grammar Evaluation} \label{tab:title} 
+\begin{center}
+\begin{tabular}{|c||c|c|c|}
+\hline
+Rule&Precision&Recall&FMeasure\\
+\hline
+\hline
+$<$FROMCITY$>$&0.552&0.721&0.625 \\
+\hline$<$TOCITY$>$&0.722&0.701&0.711 \\
+\hline$<$CITY$>$&0.281&0.548&0.372 \\
+\hline$<$DATETIMECOMB$>$&0.207&0.533&0.298 \\
+\hline$<$TODATE$>$&0.000&0.000&0.000 \\
+\hline$<$CHANGEFROM$>$&0.668&0.632&0.650 \\
+\hline$<$CLEARVALUE$>$&0.180&0.226&0.200 \\
+\hline$<$CLEAR$>$&0.247&0.287&0.266 \\
+\hline$<$MONEY$>$&0.585&0.678&0.628 \\
+\hline$<$FROMTIME$>$&0.305&0.322&0.313 \\
+\hline$<$INFORMQ$>$&0.334&0.457&0.386 \\
+\hline$<$FOCUS\_CHANGE$>$&0.353&0.407&0.378 \\
+\hline$<$DATE$>$&0.000&0.000&0.000 \\
+\hline$<$NOTEXPRESSION\_AIRLINE$>$&0.219&0.852&0.348 \\
+\hline$<$CHANGETO$>$&0.244&0.319&0.277 \\
+\hline$<$TOTIME$>$&0.773&0.605&0.679 \\
+\hline$<$FLIGHT$>$&0.373&0.494&0.425 \\
+\hline$<$CHANGE$>$&0.278&0.243&0.259 \\
+\hline$<$STOPCITY$>$&0.539&0.773&0.635 \\
+\hline$<$DONTCARE$>$&0.182&0.243&0.208 \\
+\hline$<$CHANGETAG$>$&0.230&0.487&0.312 \\
+\hline$<$NUMBER$>$&0.194&0.500&0.280 \\
+\hline$<$DATESPEC$>$&0.198&0.195&0.196 \\
+\hline$<$WHQUESTION$>$&0.330&0.335&0.332 \\
+\hline$<$FROMDATE$>$&0.540&0.611&0.573 \\
+\hline$<$OREXPRESSION\_AIRLINE$>$&0.000&0.000&0.000 \\
+\hline$<$FLIGHTNO$>$&0.330&0.335&0.332 \\
+\hline$<$AIRLINE$>$&0.386&0.794&0.519 \\
+\hline$<$TIME$>$&0.000&0.000&0.000 \\
+\hline$<$ATTRIBUTE$>$&0.210&0.317&0.253 \\
+\hline$<$ATTRIBUTE\_POSTMODIFIER$>$&0.000&0.000&0.000 \\
+\hline$<$CANCEL$>$&0.273&0.427&0.333 \\
+\hline
+\hline
+$<$ALL\_RULES$>$&0.309&0.406&0.351 \\
+\hline
+\end{tabular}
+\end{center}
+\captionof{table}{Top-Down Grammar Evaluation} \label{tab:title} 
+\begin{center}
+\begin{tabular}{|c||c|c|c|}
+\hline
+Rule&Precision&Recall&FMeasure\\
+\hline
+\hline
+$<$FROMCITY$>$&0.264&0.302&0.625 \\
+\hline$<$TOCITY$>$&0.289&0.373&0.711 \\
+\hline$<$CITY$>$&0.224&0.365&0.372 \\
+\hline$<$DATETIMECOMB$>$&0.181&0.412&0.298 \\
+\hline$<$TODATE$>$&0.000&0.000&0.000 \\
+\hline$<$CHANGEFROM$>$&0.000&0.000&0.650 \\
+\hline$<$CLEARVALUE$>$&0.111&0.075&0.200 \\
+\hline$<$CLEAR$>$&0.172&0.279&0.266 \\
+\hline$<$MONEY$>$&0.000&0.000&0.628 \\
+\hline$<$FROMTIME$>$&0.214&0.218&0.313 \\
+\hline$<$INFORMQ$>$&0.203&0.255&0.386 \\
+\hline$<$FOCUS\_CHANGE$>$&0.000&0.000&0.378 \\
+\hline$<$DATE$>$&0.000&0.000&0.000 \\
+\hline$<$NOTEXPRESSION\_AIRLINE$>$&0.141&0.148&0.348 \\
+\hline$<$CHANGETO$>$&0.229&0.285&0.277 \\
+\hline$<$TOTIME$>$&0.000&0.000&0.679 \\
+\hline$<$FLIGHT$>$&0.234&0.298&0.425 \\
+\hline$<$CHANGE$>$&0.202&0.189&0.259 \\
+\hline$<$STOPCITY$>$&0.240&0.402&0.635 \\
+\hline$<$DONTCARE$>$&0.145&0.273&0.208 \\
+\hline$<$CHANGETAG$>$&0.202&0.263&0.312 \\
+\hline$<$NUMBER$>$&0.163&0.263&0.280 \\
+\hline$<$DATESPEC$>$&0.000&0.000&0.196 \\
+\hline$<$WHQUESTION$>$&0.258&0.282&0.332 \\
+\hline$<$FROMDATE$>$&0.000&0.000&0.573 \\
+\hline$<$OREXPRESSION\_AIRLINE$>$&0.161&0.185&0.000 \\
+\hline$<$FLIGHTNO$>$&0.177&0.192&0.332 \\
+\hline$<$AIRLINE$>$&0.218&0.465&0.519 \\
+\hline$<$TIME$>$&0.000&0.000&0.000 \\
+\hline$<$ATTRIBUTE$>$&0.168&0.260&0.253 \\
+\hline$<$ATTRIBUTE\_POSTMODIFIER$>$&0.182&0.223&0.000 \\
+\hline$<$CANCEL$>$&0.000&0.000&0.333 \\
+\hline
+\hline
+$<$ALL\_RULES$>$&0.202&0.152&0.173 \\
+\hline
+\end{tabular}
+\end{center}
+\pagebreak
+\subsection{Step 2: Simple Union}
+Simple Union of the grammar without rule or concept mappings
+
+\captionof{table}{Simple Union Evaluation (Base)} \label{tab:title} 
+\begin{center}
+\begin{tabular}{|c||c|c|c|}
+\hline
+Rule&Precision&Recall&FMeasure\\
+\hline
+\hline
+$<$FROMCITY$>$&0.373&0.722&0.492 \\
+\hline$<$TOCITY$>$&0.456&0.687&0.548 \\
+\hline$<$CITY$>$&0.272&0.548&0.364 \\
+\hline$<$DATETIMECOMB$>$&0.196&0.533&0.287 \\
+\hline$<$TODATE$>$&0.000&0.000&0.000 \\
+\hline$<$CHANGEFROM$>$&0.668&0.632&0.650 \\
+\hline$<$CLEARVALUE$>$&0.175&0.212&0.192 \\
+\hline$<$CLEAR$>$&0.185&0.287&0.225 \\
+\hline$<$MONEY$>$&0.585&0.678&0.628 \\
+\hline$<$FROMTIME$>$&0.249&0.322&0.281 \\
+\hline$<$INFORMQ$>$&0.322&0.457&0.378 \\
+\hline$<$FOCUS\_CHANGE$>$&0.353&0.407&0.378 \\
+\hline$<$DATE$>$&0.000&0.000&0.000 \\
+\hline$<$NOTEXPRESSION\_AIRLINE$>$&0.212&0.852&0.340 \\
+\hline$<$CHANGETO$>$&0.235&0.333&0.276 \\
+\hline$<$TOTIME$>$&0.773&0.605&0.679 \\
+\hline$<$FLIGHT$>$&0.243&0.494&0.326 \\
+\hline$<$CHANGE$>$&0.263&0.246&0.254 \\
+\hline$<$STOPCITY$>$&0.380&0.773&0.510 \\
+\hline$<$DONTCARE$>$&0.150&0.273&0.194 \\
+\hline$<$CHANGETAG$>$&0.210&0.487&0.293 \\
+\hline$<$NUMBER$>$&0.179&0.500&0.264 \\
+\hline$<$DATESPEC$>$&0.198&0.195&0.196 \\
+\hline$<$WHQUESTION$>$&0.328&0.372&0.349 \\
+\hline$<$FROMDATE$>$&0.540&0.611&0.573 \\
+\hline$<$OREXPRESSION\_AIRLINE$>$&0.161&0.185&0.172 \\
+\hline$<$FLIGHTNO$>$&0.181&0.335&0.235 \\
+\hline$<$AIRLINE$>$&0.328&0.794&0.464 \\
+\hline$<$TIME$>$&0.000&0.000&0.000 \\
+\hline$<$ATTRIBUTE$>$&0.187&0.317&0.235 \\
+\hline$<$ATTRIBUTE\_POSTMODIFIER$>$&0.182&0.223&0.200 \\
+\hline$<$CANCEL$>$&0.273&0.427&0.333 \\
+\hline
+\hline
+$<$ALL\_RULES$>$&0.247&0.414&0.309 \\
+\hline
+\end{tabular}
+\end{center}
+\pagebreak
+\subsection{Step 3: Concept Mapping}
+Grammar Fusion after concept mapping
+
+\captionof{table}{Simple Union Evaluation (Concept mapping TD to BU)} \label{tab:title} 
+\begin{center}
+\begin{tabular}{|c||c|c|c|}
+\hline
+Rule&Precision&Recall&FMeasure\\
+\hline
+\hline
+$<$FROMCITY$>$&0.372&0.722&0.491 \\
+\hline$<$TOCITY$>$&0.695&0.684&0.689 \\
+\hline$<$CITY$>$&0.278&0.548&0.369 \\
+\hline$<$DATETIMECOMB$>$&0.191&0.533&0.281 \\
+\hline$<$TODATE$>$&0.000&0.000&0.000 \\
+\hline$<$CHANGEFROM$>$&0.668&0.632&0.650 \\
+\hline$<$CLEARVALUE$>$&0.177&0.212&0.193 \\
+\hline$<$CLEAR$>$&0.186&0.281&0.224 \\
+\hline$<$MONEY$>$&0.585&0.678&0.628 \\
+\hline$<$FROMTIME$>$&0.246&0.325&0.280 \\
+\hline$<$INFORMQ$>$&0.322&0.457&0.378 \\
+\hline$<$FOCUS\_CHANGE$>$&0.353&0.407&0.378 \\
+\hline$<$DATE$>$&0.000&0.000&0.000 \\
+\hline$<$NOTEXPRESSION\_AIRLINE$>$&0.216&0.852&0.345 \\
+\hline$<$CHANGETO$>$&0.234&0.333&0.275 \\
+\hline$<$TOTIME$>$&0.773&0.605&0.679 \\
+\hline$<$FLIGHT$>$&0.243&0.494&0.326 \\
+\hline$<$CHANGE$>$&0.245&0.246&0.245 \\
+\hline$<$STOPCITY$>$&0.377&0.773&0.507 \\
+\hline$<$DONTCARE$>$&0.158&0.273&0.200 \\
+\hline$<$CHANGETAG$>$&0.210&0.487&0.293 \\
+\hline$<$NUMBER$>$&0.177&0.500&0.261 \\
+\hline$<$DATESPEC$>$&0.198&0.195&0.196 \\
+\hline$<$WHQUESTION$>$&0.312&0.372&0.339 \\
+\hline$<$FROMDATE$>$&0.540&0.611&0.573 \\
+\hline$<$OREXPRESSION\_AIRLINE$>$&0.158&0.185&0.170 \\
+\hline$<$FLIGHTNO$>$&0.181&0.335&0.235 \\
+\hline$<$AIRLINE$>$&0.320&0.794&0.456 \\
+\hline$<$TIME$>$&0.000&0.000&0.000 \\
+\hline$<$ATTRIBUTE$>$&0.191&0.317&0.238 \\
+\hline$<$ATTRIBUTE\_POSTMODIFIER$>$&0.186&0.223&0.203 \\
+\hline$<$CANCEL$>$&0.273&0.427&0.333 \\
+\hline
+\hline
+$<$ALL\_RULES$>$&0.247&0.414&0.309 \\
+\hline
+\end{tabular}
+\end{center}
+\pagebreak
+\captionof{table}{Simple Union Evaluation (Concept mapping BU to TD)} \label{tab:title} 
+\begin{center}
+\begin{tabular}{|c||c|c|c|}
+\hline
+Rule&Precision&Recall&FMeasure\\
+\hline
+\hline
+$<$FROMCITY$>$&0.362&0.714&0.491 \\
+\hline$<$TOCITY$>$&0.703&0.684&0.689 \\
+\hline$<$CITY$>$&0.265&0.474&0.369 \\
+\hline$<$DATETIMECOMB$>$&0.173&0.533&0.281 \\
+\hline$<$TODATE$>$&0.000&0.000&0.000 \\
+\hline$<$CHANGEFROM$>$&0.668&0.632&0.650 \\
+\hline$<$CLEARVALUE$>$&0.111&0.075&0.193 \\
+\hline$<$CLEAR$>$&0.172&0.279&0.224 \\
+\hline$<$MONEY$>$&0.500&0.513&0.628 \\
+\hline$<$FROMTIME$>$&0.214&0.218&0.280 \\
+\hline$<$INFORMQ$>$&0.305&0.472&0.378 \\
+\hline$<$FOCUS\_CHANGE$>$&0.353&0.407&0.378 \\
+\hline$<$DATE$>$&0.282&0.412&0.000 \\
+\hline$<$NOTEXPRESSION\_AIRLINE$>$&0.201&0.852&0.345 \\
+\hline$<$CHANGETO$>$&0.237&0.333&0.275 \\
+\hline$<$TOTIME$>$&0.773&0.605&0.679 \\
+\hline$<$FLIGHT$>$&0.240&0.494&0.326 \\
+\hline$<$CHANGE$>$&0.202&0.189&0.245 \\
+\hline$<$STOPCITY$>$&0.363&0.763&0.507 \\
+\hline$<$DONTCARE$>$&0.145&0.273&0.200 \\
+\hline$<$CHANGETAG$>$&0.205&0.487&0.293 \\
+\hline$<$NUMBER$>$&0.174&0.500&0.261 \\
+\hline$<$DATESPEC$>$&0.000&0.000&0.196 \\
+\hline$<$WHQUESTION$>$&0.318&0.282&0.339 \\
+\hline$<$FROMDATE$>$&0.771&0.611&0.573 \\
+\hline$<$OREXPRESSION\_AIRLINE$>$&0.161&0.185&0.170 \\
+\hline$<$FLIGHTNO$>$&0.177&0.271&0.235 \\
+\hline$<$AIRLINE$>$&0.322&0.794&0.456 \\
+\hline$<$TIME$>$&0.000&0.000&0.000 \\
+\hline$<$ATTRIBUTE$>$&0.192&0.317&0.238 \\
+\hline$<$ATTRIBUTE\_POSTMODIFIER$>$&0.182&0.223&0.203 \\
+\hline$<$CANCEL$>$&0.237&0.393&0.333 \\
+\hline
+\hline
+$<$ALL\_RULES$>$&0.240&0.418&0.305 \\
+\hline
+\end{tabular}
+\end{center}
+\pagebreak
+\captionof{table}{Augmented Bottom Up (Concept mapping TD to BU)} \label{tab:title} 
+\begin{center}
+\begin{tabular}{|c||c|c|c|}
+\hline
+Rule&Precision&Recall&FMeasure\\
+\hline
+\hline
+$<$FROMCITY$>$&0.552&0.721&0.625 \\
+\hline$<$TOCITY$>$&0.695&0.701&0.698 \\
+\hline$<$CITY$>$&0.288&0.548&0.378 \\
+\hline$<$DATETIMECOMB$>$&0.189&0.533&0.279 \\
+\hline$<$TODATE$>$&0.000&0.000&0.000 \\
+\hline$<$CHANGEFROM$>$&0.668&0.632&0.650 \\
+\hline$<$CLEARVALUE$>$&0.201&0.220&0.210 \\
+\hline$<$CLEAR$>$&0.243&0.281&0.261 \\
+\hline$<$MONEY$>$&0.585&0.678&0.628 \\
+\hline$<$FROMTIME$>$&0.309&0.322&0.315 \\
+\hline$<$INFORMQ$>$&0.334&0.457&0.386 \\
+\hline$<$FOCUS\_CHANGE$>$&0.353&0.407&0.378 \\
+\hline$<$DATE$>$&0.000&0.000&0.000 \\
+\hline$<$NOTEXPRESSION\_AIRLINE$>$&0.224&0.852&0.355 \\
+\hline$<$CHANGETO$>$&0.244&0.319&0.277 \\
+\hline$<$TOTIME$>$&0.773&0.605&0.679 \\
+\hline$<$FLIGHT$>$&0.373&0.494&0.425 \\
+\hline$<$CHANGE$>$&0.235&0.246&0.240 \\
+\hline$<$STOPCITY$>$&0.530&0.773&0.629 \\
+\hline$<$DONTCARE$>$&0.182&0.243&0.208 \\
+\hline$<$CHANGETAG$>$&0.230&0.487&0.312 \\
+\hline$<$NUMBER$>$&0.195&0.500&0.281 \\
+\hline$<$DATESPEC$>$&0.198&0.195&0.196 \\
+\hline$<$WHQUESTION$>$&0.311&0.335&0.323 \\
+\hline$<$FROMDATE$>$&0.540&0.611&0.573 \\
+\hline$<$OREXPRESSION\_AIRLINE$>$&0.000&0.000&0.000 \\
+\hline$<$FLIGHTNO$>$&0.330&0.335&0.332 \\
+\hline$<$AIRLINE$>$&0.297&0.794&0.432 \\
+\hline$<$TIME$>$&0.000&0.000&0.000 \\
+\hline$<$ATTRIBUTE$>$&0.210&0.317&0.253 \\
+\hline$<$ATTRIBUTE\_POSTMODIFIER$>$&0.000&0.000&0.000 \\
+\hline$<$CANCEL$>$&0.273&0.427&0.333 \\
+\hline
+\hline
+$<$ALL\_RULES$>$&0.299&0.406&0.344 \\
+\hline
+\end{tabular}
+\end{center}
+\pagebreak
+\captionof{table}{Augmented Bottom Up (Concept mapping BU to TD)} \label{tab:title} 
+\begin{center}
+\begin{tabular}{|c||c|c|c|}
+\hline
+Rule&Precision&Recall&FMeasure\\
+\hline
+\hline
+$<$FROMCITY$>$&0.607&0.713&0.625 \\
+\hline$<$TOCITY$>$&0.753&0.698&0.698 \\
+\hline$<$CITY$>$&0.330&0.463&0.378 \\
+\hline$<$DATETIMECOMB$>$&0.272&0.533&0.279 \\
+\hline$<$TODATE$>$&0.000&0.000&0.000 \\
+\hline$<$CHANGEFROM$>$&0.668&0.632&0.650 \\
+\hline$<$CLEARVALUE$>$&0.000&0.000&0.210 \\
+\hline$<$CLEAR$>$&0.000&0.000&0.261 \\
+\hline$<$MONEY$>$&0.500&0.513&0.628 \\
+\hline$<$FROMTIME$>$&0.000&0.000&0.315 \\
+\hline$<$INFORMQ$>$&0.308&0.472&0.386 \\
+\hline$<$FOCUS\_CHANGE$>$&0.353&0.407&0.378 \\
+\hline$<$DATE$>$&0.282&0.412&0.000 \\
+\hline$<$NOTEXPRESSION\_AIRLINE$>$&0.417&0.852&0.355 \\
+\hline$<$CHANGETO$>$&0.277&0.297&0.277 \\
+\hline$<$TOTIME$>$&0.773&0.605&0.679 \\
+\hline$<$FLIGHT$>$&0.324&0.494&0.425 \\
+\hline$<$CHANGE$>$&0.000&0.000&0.240 \\
+\hline$<$STOPCITY$>$&0.607&0.763&0.629 \\
+\hline$<$DONTCARE$>$&0.000&0.000&0.208 \\
+\hline$<$CHANGETAG$>$&0.233&0.487&0.312 \\
+\hline$<$NUMBER$>$&0.215&0.500&0.281 \\
+\hline$<$DATESPEC$>$&0.000&0.000&0.196 \\
+\hline$<$WHQUESTION$>$&0.000&0.000&0.323 \\
+\hline$<$FROMDATE$>$&0.771&0.611&0.573 \\
+\hline$<$OREXPRESSION\_AIRLINE$>$&0.000&0.000&0.000 \\
+\hline$<$FLIGHTNO$>$&0.187&0.271&0.332 \\
+\hline$<$AIRLINE$>$&0.702&0.794&0.432 \\
+\hline$<$TIME$>$&0.000&0.000&0.000 \\
+\hline$<$ATTRIBUTE$>$&0.256&0.317&0.253 \\
+\hline$<$ATTRIBUTE\_POSTMODIFIER$>$&0.000&0.000&0.000 \\
+\hline$<$CANCEL$>$&0.246&0.393&0.333 \\
+\hline
+\hline
+$<$ALL\_RULES$>$&0.388&0.363&0.375 \\
+\hline
+\end{tabular}
+\end{center}
+\pagebreak
+\captionof{table}{Augmented Top Down (Concept mapping TD to BU)} \label{tab:title} 
+\begin{center}
+\begin{tabular}{|c||c|c|c|}
+\hline
+Rule&Precision&Recall&FMeasure\\
+\hline
+\hline
+$<$FROMCITY$>$&0.262&0.311&0.284 \\
+\hline$<$TOCITY$>$&0.000&0.000&0.000 \\
+\hline$<$CITY$>$&0.241&0.417&0.305 \\
+\hline$<$DATETIMECOMB$>$&0.195&0.412&0.265 \\
+\hline$<$TODATE$>$&0.000&0.000&0.000 \\
+\hline$<$CHANGEFROM$>$&0.000&0.000&0.000 \\
+\hline$<$CLEARVALUE$>$&0.222&0.150&0.179 \\
+\hline$<$CLEAR$>$&0.173&0.197&0.184 \\
+\hline$<$MONEY$>$&0.000&0.000&0.000 \\
+\hline$<$FROMTIME$>$&0.210&0.231&0.220 \\
+\hline$<$INFORMQ$>$&0.203&0.255&0.226 \\
+\hline$<$FOCUS\_CHANGE$>$&0.000&0.000&0.000 \\
+\hline$<$DATE$>$&0.000&0.000&0.000 \\
+\hline$<$NOTEXPRESSION\_AIRLINE$>$&0.136&0.148&0.142 \\
+\hline$<$CHANGETO$>$&0.229&0.285&0.254 \\
+\hline$<$TOTIME$>$&0.000&0.000&0.000 \\
+\hline$<$FLIGHT$>$&0.234&0.298&0.262 \\
+\hline$<$CHANGE$>$&0.000&0.000&0.000 \\
+\hline$<$STOPCITY$>$&0.242&0.402&0.302 \\
+\hline$<$DONTCARE$>$&0.155&0.273&0.198 \\
+\hline$<$CHANGETAG$>$&0.202&0.263&0.228 \\
+\hline$<$NUMBER$>$&0.161&0.294&0.208 \\
+\hline$<$DATESPEC$>$&0.000&0.000&0.000 \\
+\hline$<$WHQUESTION$>$&0.258&0.282&0.269 \\
+\hline$<$FROMDATE$>$&0.000&0.000&0.000 \\
+\hline$<$OREXPRESSION\_AIRLINE$>$&0.158&0.185&0.170 \\
+\hline$<$FLIGHTNO$>$&0.177&0.192&0.184 \\
+\hline$<$AIRLINE$>$&0.000&0.000&0.000 \\
+\hline$<$TIME$>$&0.000&0.000&0.000 \\
+\hline$<$ATTRIBUTE$>$&0.167&0.145&0.155 \\
+\hline$<$ATTRIBUTE\_POSTMODIFIER$>$&0.186&0.223&0.203 \\
+\hline$<$CANCEL$>$&0.000&0.000&0.000 \\
+\hline
+\hline
+$<$ALL\_RULES$>$&0.201&0.119&0.149 \\
+\hline
+\end{tabular}
+\end{center}
+\pagebreak
+\captionof{table}{Augmented Top Down (Concept mapping BU to TD)} \label{tab:title} 
+\begin{center}
+\begin{tabular}{|c||c|c|c|}
+\hline
+Rule&Precision&Recall&FMeasure\\
+\hline
+\hline
+$<$FROMCITY$>$&0.264&0.302&0.284 \\
+\hline$<$TOCITY$>$&0.345&0.273&0.000 \\
+\hline$<$CITY$>$&0.228&0.446&0.305 \\
+\hline$<$DATETIMECOMB$>$&0.167&0.412&0.265 \\
+\hline$<$TODATE$>$&0.000&0.000&0.000 \\
+\hline$<$CHANGEFROM$>$&0.000&0.000&0.000 \\
+\hline$<$CLEARVALUE$>$&0.111&0.075&0.179 \\
+\hline$<$CLEAR$>$&0.172&0.279&0.184 \\
+\hline$<$MONEY$>$&0.000&0.000&0.000 \\
+\hline$<$FROMTIME$>$&0.214&0.218&0.220 \\
+\hline$<$INFORMQ$>$&0.203&0.255&0.226 \\
+\hline$<$FOCUS\_CHANGE$>$&0.000&0.000&0.000 \\
+\hline$<$DATE$>$&0.000&0.000&0.000 \\
+\hline$<$NOTEXPRESSION\_AIRLINE$>$&0.167&0.333&0.142 \\
+\hline$<$CHANGETO$>$&0.230&0.306&0.254 \\
+\hline$<$TOTIME$>$&0.000&0.000&0.000 \\
+\hline$<$FLIGHT$>$&0.234&0.298&0.262 \\
+\hline$<$CHANGE$>$&0.202&0.189&0.000 \\
+\hline$<$STOPCITY$>$&0.231&0.402&0.302 \\
+\hline$<$DONTCARE$>$&0.145&0.273&0.198 \\
+\hline$<$CHANGETAG$>$&0.200&0.399&0.228 \\
+\hline$<$NUMBER$>$&0.163&0.263&0.208 \\
+\hline$<$DATESPEC$>$&0.000&0.000&0.000 \\
+\hline$<$WHQUESTION$>$&0.258&0.282&0.269 \\
+\hline$<$FROMDATE$>$&0.000&0.000&0.000 \\
+\hline$<$OREXPRESSION\_AIRLINE$>$&0.161&0.185&0.170 \\
+\hline$<$FLIGHTNO$>$&0.177&0.192&0.184 \\
+\hline$<$AIRLINE$>$&0.223&0.465&0.000 \\
+\hline$<$TIME$>$&0.000&0.000&0.000 \\
+\hline$<$ATTRIBUTE$>$&0.167&0.145&0.155 \\
+\hline$<$ATTRIBUTE\_POSTMODIFIER$>$&0.182&0.223&0.203 \\
+\hline$<$CANCEL$>$&0.000&0.000&0.000 \\
+\hline
+\hline
+$<$ALL\_RULES$>$&0.199&0.146&0.168 \\
+\hline
+\end{tabular}
+\end{center}
+\pagebreak
+\subsection{Step 4: Rule Mapping}
+Grammar Fusion after rule matching
+
+\captionof{table}{Augmented Top Down (Concept mapping BU to TD)} \label{tab:title} 
+\begin{center}
+\begin{tabular}{|c||c|c|c|}
+\hline
+Rule&Precision&Recall&FMeasure\\
+\hline
+\hline
+$<$FROMCITY$>$&0.362&0.714&0.480 \\
+\hline$<$TOCITY$>$&0.395&0.707&0.507 \\
+\hline$<$CITY$>$&0.225&0.456&0.301 \\
+\hline$<$DATETIMECOMB$>$&0.169&0.533&0.257 \\
+\hline$<$TODATE$>$&0.000&0.000&0.000 \\
+\hline$<$CHANGEFROM$>$&0.000&0.000&0.000 \\
+\hline$<$CLEARVALUE$>$&0.111&0.075&0.090 \\
+\hline$<$CLEAR$>$&0.180&0.297&0.224 \\
+\hline$<$MONEY$>$&0.412&0.466&0.437 \\
+\hline$<$FROMTIME$>$&0.214&0.218&0.216 \\
+\hline$<$INFORMQ$>$&0.302&0.472&0.368 \\
+\hline$<$FOCUS\_CHANGE$>$&0.336&0.407&0.368 \\
+\hline$<$DATE$>$&0.277&0.381&0.321 \\
+\hline$<$NOTEXPRESSION\_AIRLINE$>$&0.169&0.333&0.224 \\
+\hline$<$CHANGETO$>$&0.230&0.306&0.263 \\
+\hline$<$TOTIME$>$&0.000&0.000&0.000 \\
+\hline$<$FLIGHT$>$&0.237&0.494&0.320 \\
+\hline$<$CHANGE$>$&0.202&0.189&0.195 \\
+\hline$<$STOPCITY$>$&0.293&0.515&0.374 \\
+\hline$<$DONTCARE$>$&0.145&0.273&0.189 \\
+\hline$<$CHANGETAG$>$&0.201&0.399&0.267 \\
+\hline$<$NUMBER$>$&0.167&0.333&0.222 \\
+\hline$<$DATESPEC$>$&0.000&0.000&0.000 \\
+\hline$<$WHQUESTION$>$&0.000&0.000&0.000 \\
+\hline$<$FROMDATE$>$&0.000&0.000&0.000 \\
+\hline$<$OREXPRESSION\_AIRLINE$>$&0.161&0.185&0.172 \\
+\hline$<$FLIGHTNO$>$&0.177&0.195&0.186 \\
+\hline$<$AIRLINE$>$&0.289&0.746&0.417 \\
+\hline$<$TIME$>$&0.000&0.000&0.000 \\
+\hline$<$ATTRIBUTE$>$&0.192&0.317&0.239 \\
+\hline$<$ATTRIBUTE\_POSTMODIFIER$>$&0.182&0.223&0.200 \\
+\hline$<$CANCEL$>$&0.000&0.000&0.000 \\
+\hline
+\hline
+$<$ALL\_RULES$>$&0.229&0.258&0.242 \\
+\hline
+\end{tabular}
+\end{center}
+\pagebreak
+\captionof{table}{Augmented Bottom Up (Concept mapping TD to BU)} \label{tab:title} 
+\begin{center}
+\begin{tabular}{|c||c|c|c|}
+\hline
+Rule&Precision&Recall&FMeasure\\
+\hline
+\hline
+$<$FROMCITY$>$&0.552&0.721&0.625 \\
+\hline$<$TOCITY$>$&0.718&0.698&0.708 \\
+\hline$<$CITY$>$&0.296&0.548&0.384 \\
+\hline$<$DATETIMECOMB$>$&0.177&0.600&0.273 \\
+\hline$<$TODATE$>$&0.000&0.000&0.000 \\
+\hline$<$CHANGEFROM$>$&0.650&0.632&0.641 \\
+\hline$<$CLEARVALUE$>$&0.200&0.220&0.210 \\
+\hline$<$CLEAR$>$&0.175&0.444&0.251 \\
+\hline$<$MONEY$>$&0.585&0.678&0.628 \\
+\hline$<$FROMTIME$>$&0.276&0.337&0.303 \\
+\hline$<$INFORMQ$>$&0.000&0.000&0.000 \\
+\hline$<$FOCUS\_CHANGE$>$&0.000&0.000&0.000 \\
+\hline$<$DATE$>$&0.000&0.000&0.000 \\
+\hline$<$NOTEXPRESSION\_AIRLINE$>$&0.212&0.852&0.340 \\
+\hline$<$CHANGETO$>$&0.235&0.327&0.273 \\
+\hline$<$TOTIME$>$&0.773&0.605&0.679 \\
+\hline$<$FLIGHT$>$&0.270&0.494&0.349 \\
+\hline$<$CHANGE$>$&0.231&0.244&0.237 \\
+\hline$<$STOPCITY$>$&0.530&0.773&0.629 \\
+\hline$<$DONTCARE$>$&0.182&0.243&0.208 \\
+\hline$<$CHANGETAG$>$&0.230&0.487&0.312 \\
+\hline$<$NUMBER$>$&0.163&0.500&0.246 \\
+\hline$<$DATESPEC$>$&0.198&0.195&0.196 \\
+\hline$<$WHQUESTION$>$&0.294&0.365&0.326 \\
+\hline$<$FROMDATE$>$&0.349&0.290&0.317 \\
+\hline$<$OREXPRESSION\_AIRLINE$>$&0.000&0.000&0.000 \\
+\hline$<$FLIGHTNO$>$&0.330&0.335&0.332 \\
+\hline$<$AIRLINE$>$&0.297&0.794&0.432 \\
+\hline$<$TIME$>$&0.000&0.000&0.000 \\
+\hline$<$ATTRIBUTE$>$&0.162&0.232&0.191 \\
+\hline$<$ATTRIBUTE\_POSTMODIFIER$>$&0.000&0.000&0.000 \\
+\hline$<$CANCEL$>$&0.297&0.427&0.350 \\
+\hline
+\hline
+$<$ALL\_RULES$>$&0.238&0.356&0.285 \\
+\hline
+\end{tabular}
+\end{center}
+\end{document}

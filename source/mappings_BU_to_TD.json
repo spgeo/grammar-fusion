@@ -1,0 +1,13 @@
+{
+ "Class_10": ["FLIGHT"],
+ "Individual_4": ["attribute"],
+ "Individual_5": ["AIRLINE","AIRPORT","CITY","country","state","hotelnames","carcompany"], 
+ "Modifier_1": ["DATE"],
+ "Objecttype_2": ["flighttype","FARETYPE","MONEYSPEC"],
+ "Objecttype_7": ["attribute_airline","attribute_car","attribute_city","attribute_flight","attribute_hotel","attribute_leg","attribute_stopover","connectionQ"],
+ "Question_QS_cat": ["INFORMQ"],
+ "Statement_10":  ["attribute_path_modifier"],
+ "Statement_119": ["AIRPORTSERVICE"],
+ "Unknown_49": ["STOPCITY","FROMCITY","TOCITY"],
+ "Utterance_Utt_cat": ["ALLRULES"]
+}

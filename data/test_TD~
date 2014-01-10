@@ -1,0 +1,8 @@
+<WhPron_cat>,<WhPron_1>,<WhPron_2>,<WhPron_3> .
+<WhAdv_cat>,<WhAdv_1>
+<Question_1>,<Clause_2>,<WhPron_1> <Unknown_9> <Unknown_11> <Unknown_11> <Unknown_10> <Unknown_11> <Unknown_11> <Unknown_22> <Unknown_11>,<WhPron_3> <Unknown_13> <Unknown_11> <Unknown_11> <Unknown_14> <Unknown_11> <Unknown_11> <Unknown_24> <Unknown_11>,<WhAdv_1> <Clause_2>
+<Clause_3>,<Unknown_5> DON'T NEED <Unknown_4>,<Unknown_6> DOESN'T NEED <Unknown_4>,<Unknown_5> DON'T WANT <Unknown_4>,<Unknown_6> DOESN'T WANT <Unknown_4>
+<Question_QS_cat>,<Question_1>
+<Class_13>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4>,TO <Unknown_4> FROM <Unknown_4>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4>,TO <Unknown_4> WITH <Unknown_4>,TO <Unknown_4>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4>
+<Class_17>,TO <Unknown_4> FROM <Unknown_4>,TO <Unknown_4>,FROM <Unknown_4> TO <Unknown_4>,FROM <Unknown_4>,<Class_18>,TO <Unknown_4> <Class_18>,FROM <Unknown_4> <Class_18>,TO <Unknown_4> FROM <Unknown_4> <Class_18>,FROM <Unknown_4> TO <Unknown_4> <Class_18>
+<Class_23>,TO <Unknown_4> FROM <Unknown_4> WITH <Unknown_4>,TO <Unknown_4> FROM <Unknown_4>,TO <Unknown_4> WITH <Unknown_4> FROM <Unknown_4>,TO <Unknown_4> WITH <Unknown_4>,TO <Unknown_4>,FROM <Unknown_4> TO <Unknown_4> WITH <Unknown_4>
